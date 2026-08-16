@@ -1458,7 +1458,7 @@
     {
       "description": "",
       "items": [],
-      "title": "Tool: 238253⭐ 14106🍴 system-other)"
+      "title": "Tool: 238601⭐ 14121🍴 system-other)"
     },
     {
       "description": "",
@@ -1813,7 +1813,7 @@
     {
       "description": "",
       "items": [],
-      "title": "Tool: 238253⭐ 14106🍴 network-other)"
+      "title": "Tool: 238601⭐ 14121🍴 network-other)"
     },
     {
       "description": "",
@@ -2101,15 +2101,15 @@
       "title": "Get ASN"
     },
     {
-      "description": "238253⭐ 14106🍴 trimstray/the-book-of-secret-knowledge)",
+      "description": "238601⭐ 14121🍴 trimstray/the-book-of-secret-knowledge)",
       "items": [],
       "title": "Source"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:02:40.196Z",
+    "last_updated": "2026-08-16T22:01:06.665Z",
     "original_repository": "Correia-jpv/fucking-the-book-of-secret-knowledge",
-    "original_repository_sha": "ee0c5e6bc3fabb0fd100dc102e7a1ca41fe922ec",
+    "original_repository_sha": "1942f957638de4c7513a007566a2ea0e3623974d",
     "enhanced_repository": "enhansome/enhansome-fucking-the-book-of-secret-knowledge",
     "enhanced_repository_description": null,
     "title": "Awesome fucking the book of secret knowledge with stars"
