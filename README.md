@@ -77,7 +77,7 @@ This project exists thanks to all the people who contribute.
 
 ## :newspaper:  RSS Feed & Updates
 
-GitHub exposes an [RSS/Atom](https://github.com/correia-jpv/fucking-the-book-of-secret-knowledge/commits.atom) ⭐ 318 | 🐛 2 | 📅 2026-08-18 feed of the commits, which may also be useful if you want to be kept informed about all changes.
+GitHub exposes an [RSS/Atom](https://github.com/correia-jpv/fucking-the-book-of-secret-knowledge/commits.atom) ⭐ 319 | 🐛 2 | 📅 2026-08-18 feed of the commits, which may also be useful if you want to be kept informed about all changes.
 
 ## :ballot\_box\_with\_check:  ToDo
 
@@ -2781,7 +2781,7 @@ For more information please look at these great explanations:
 * 🌎 [Your OpenSSL CSR command is out of date](expeditedsecurity.com/blog/openssl-csr-command/)
 * 🌎 [OpenSSL example configuration file](www.tbs-certificats.com/openssl-dem-server-cert.cnf)
 * 🌎 [Object Identifiers (OIDs)](www.alvestrand.no/objectid/)
-* <b><code> 30642⭐</code></b> <b><code> 11397🍴</code></b> [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,657 | 🐛 1,533 | 🌐 C | 📅 2026-08-19)
+* <b><code> 30642⭐</code></b> <b><code> 11397🍴</code></b> [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,661 | 🐛 1,528 | 🌐 C | 📅 2026-08-19)
 
 ###### List available EC curves
 
@@ -3047,7 +3047,7 @@ gpg2 --batch --list-packets archive.gpg
 
 ***
 
-##### Tool: <b><code>238911⭐</code></b> <b><code> 14138🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 239,118 | 🐛 166 | 📅 2024-11-19)
+##### Tool: <b><code>238911⭐</code></b> <b><code> 14138🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 239,204 | 🐛 166 | 📅 2024-11-19)
 
 ###### Reboot system from init
 
@@ -3953,7 +3953,7 @@ certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 
 ***
 
-##### Tool: <b><code>238911⭐</code></b> <b><code> 14138🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 239,118 | 🐛 166 | 📅 2024-11-19)
+##### Tool: <b><code>238911⭐</code></b> <b><code> 14138🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 239,204 | 🐛 166 | 📅 2024-11-19)
 
 ###### Get all subnets for specific AS (Autonomous system)
 
@@ -4445,7 +4445,7 @@ Unsuccessful ASN gathering.
 
 ## Source
 
-<b><code>238911⭐</code></b> <b><code> 14138🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 239,118 | 🐛 166 | 📅 2024-11-19)
+<b><code>238911⭐</code></b> <b><code> 14138🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 239,204 | 🐛 166 | 📅 2024-11-19)
 
 ***
 
