@@ -2781,7 +2781,7 @@ For more information please look at these great explanations:
 * 🌎 [Your OpenSSL CSR command is out of date](expeditedsecurity.com/blog/openssl-csr-command/)
 * 🌎 [OpenSSL example configuration file](www.tbs-certificats.com/openssl-dem-server-cert.cnf)
 * 🌎 [Object Identifiers (OIDs)](www.alvestrand.no/objectid/)
-* <b><code> 30662⭐</code></b> <b><code> 11396🍴</code></b> [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,665 | 🐛 1,531 | 🌐 C | 📅 2026-08-20)
+* <b><code> 30662⭐</code></b> <b><code> 11396🍴</code></b> [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,670 | 🐛 1,527 | 🌐 C | 📅 2026-08-21)
 
 ###### List available EC curves
 
@@ -3047,7 +3047,7 @@ gpg2 --batch --list-packets archive.gpg
 
 ***
 
-##### Tool: <b><code>239277⭐</code></b> <b><code> 14154🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 239,416 | 🐛 166 | 📅 2024-11-19)
+##### Tool: <b><code>239277⭐</code></b> <b><code> 14154🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 239,659 | 🐛 166 | 📅 2024-11-19)
 
 ###### Reboot system from init
 
@@ -3953,7 +3953,7 @@ certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 
 ***
 
-##### Tool: <b><code>239277⭐</code></b> <b><code> 14154🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 239,416 | 🐛 166 | 📅 2024-11-19)
+##### Tool: <b><code>239277⭐</code></b> <b><code> 14154🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 239,659 | 🐛 166 | 📅 2024-11-19)
 
 ###### Get all subnets for specific AS (Autonomous system)
 
@@ -4445,8 +4445,8 @@ Unsuccessful ASN gathering.
 
 ## Source
 
-<b><code>239277⭐</code></b> <b><code> 14154🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 239,416 | 🐛 166 | 📅 2024-11-19)
+<b><code>239277⭐</code></b> <b><code> 14154🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 239,659 | 🐛 166 | 📅 2024-11-19)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
