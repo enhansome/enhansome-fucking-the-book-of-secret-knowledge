@@ -16,9 +16,9 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 239659
+                "stars": 239863
               },
-              "title": "Tool: 239277⭐ 14154🍴 system-other)"
+              "title": "Tool: 239733⭐ 14186🍴 system-other)"
             },
             {
               "children": [],
@@ -31,9 +31,9 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 239659
+                "stars": 239863
               },
-              "title": "Tool: 239277⭐ 14154🍴 network-other)"
+              "title": "Tool: 239733⭐ 14186🍴 network-other)"
             }
           ],
           "description": null,
@@ -45,10 +45,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:09:15.198Z",
+    "last_updated": "2026-08-22T22:04:56.965Z",
     "original_repository": "Correia-jpv/fucking-the-book-of-secret-knowledge",
     "original_repository_id": 516425390,
-    "original_repository_sha": "2716e19527b8e3be5b0506ce79f2f629e02529f5",
+    "original_repository_sha": "69bf04822daaae085ada2d40e5014a15fb6a2cf6",
     "enhanced_repository": "enhansome/enhansome-fucking-the-book-of-secret-knowledge",
     "enhanced_repository_description": null,
     "title": "Awesome fucking the book of secret knowledge with stars"
