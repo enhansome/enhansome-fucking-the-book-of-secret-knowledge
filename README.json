@@ -6,19 +6,33 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "30673⭐ 11403🍴 openssl objects.txt",
+                      "description": ")",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 7634677,
+                        "language": "C",
+                        "last_commit": "2026-08-24T10:19:14Z",
+                        "owner": "openssl",
+                        "repo": "openssl",
+                        "stars": 30673
+                      }
+                    }
+                  ],
+                  "description": "Other values in :\nExample of (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under ):\nFull example:\nFor more information please look at these great explanations:",
+                  "node_type": "group",
+                  "title": "Generate CSR with -config param"
+                }
+              ],
               "description": null,
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "id": 138393139,
-                "language": null,
-                "last_commit": "2024-11-19T14:00:38Z",
-                "owner": "trimstray",
-                "repo": "the-book-of-secret-knowledge",
-                "stars": 240013
-              },
-              "title": "Tool: 239733⭐ 14186🍴 system-other)"
+              "node_type": "group",
+              "title": "Tool: 🌎 openssl"
             },
             {
               "children": [],
@@ -31,9 +45,24 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240013
+                "stars": 240102
               },
-              "title": "Tool: 239733⭐ 14186🍴 network-other)"
+              "title": "Tool: 240048⭐ 14201🍴 system-other)"
+            },
+            {
+              "children": [],
+              "description": null,
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 138393139,
+                "language": null,
+                "last_commit": "2024-11-19T14:00:38Z",
+                "owner": "trimstray",
+                "repo": "the-book-of-secret-knowledge",
+                "stars": 240102
+              },
+              "title": "Tool: 240048⭐ 14201🍴 network-other)"
             }
           ],
           "description": null,
@@ -45,10 +74,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:04:38.688Z",
+    "last_updated": "2026-08-24T14:28:29.573Z",
     "original_repository": "Correia-jpv/fucking-the-book-of-secret-knowledge",
     "original_repository_id": 516425390,
-    "original_repository_sha": "69bf04822daaae085ada2d40e5014a15fb6a2cf6",
+    "original_repository_sha": "d1d0ad4782c508c5ddae4a411065622f4e3ce71d",
     "enhanced_repository": "enhansome/enhansome-fucking-the-book-of-secret-knowledge",
     "enhanced_repository_description": null,
     "title": "Awesome fucking the book of secret knowledge with stars"
