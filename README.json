@@ -18,10 +18,10 @@
                         "archived": false,
                         "id": 7634677,
                         "language": "C",
-                        "last_commit": "2026-08-24T10:19:14Z",
+                        "last_commit": "2026-08-25T12:21:16Z",
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30675
+                        "stars": 30683
                       }
                     }
                   ],
@@ -45,7 +45,7 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240220
+                "stars": 240331
               },
               "title": "Tool: 240048⭐ 14201🍴 system-other)"
             },
@@ -60,7 +60,7 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240220
+                "stars": 240331
               },
               "title": "Tool: 240048⭐ 14201🍴 network-other)"
             }
@@ -74,7 +74,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:47.263Z",
+    "last_updated": "2026-08-25T22:11:14.676Z",
     "original_repository": "Correia-jpv/fucking-the-book-of-secret-knowledge",
     "original_repository_id": 516425390,
     "original_repository_sha": "d1d0ad4782c508c5ddae4a411065622f4e3ce71d",
