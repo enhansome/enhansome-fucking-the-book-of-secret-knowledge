@@ -18,11 +18,12 @@
                         "archived": false,
                         "id": 7634677,
                         "language": "C",
-                        "last_commit": "2026-08-27T09:24:14Z",
+                        "last_commit": "2026-08-27T16:50:14Z",
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30700
-                      }
+                        "stars": 30703
+                      },
+                      "first_seen": "2026-08-28T05:50:29.706Z"
                     }
                   ],
                   "description": "Other values in :\nExample of (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under ):\nFull example:\nFor more information please look at these great explanations:",
@@ -45,9 +46,10 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240601
+                "stars": 240716
               },
-              "title": "Tool: 240396⭐ 14213🍴 system-other)"
+              "title": "Tool: 240396⭐ 14213🍴 system-other)",
+              "first_seen": "2026-08-28T05:50:29.706Z"
             },
             {
               "children": [],
@@ -60,9 +62,10 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240601
+                "stars": 240716
               },
-              "title": "Tool: 240396⭐ 14213🍴 network-other)"
+              "title": "Tool: 240396⭐ 14213🍴 network-other)",
+              "first_seen": "2026-08-28T05:50:29.706Z"
             }
           ],
           "description": null,
@@ -74,7 +77,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:19.345Z",
+    "last_updated": "2026-08-28T05:50:29.706Z",
     "original_repository_info": {
       "archived": false,
       "id": 516425390,
@@ -82,7 +85,7 @@
       "last_commit": "2026-08-26T06:56:13Z",
       "owner": "Correia-jpv",
       "repo": "fucking-the-book-of-secret-knowledge",
-      "stars": 320
+      "stars": 321
     },
     "original_repository_sha": "348a1ee32c103c92d16747fdef62a2d089e55d4b",
     "enhanced_repository": "enhansome/enhansome-fucking-the-book-of-secret-knowledge",
