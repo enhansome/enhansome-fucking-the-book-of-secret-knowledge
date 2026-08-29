@@ -3047,7 +3047,7 @@ gpg2 --batch --list-packets archive.gpg
 
 ***
 
-##### Tool: <b><code>240786⭐</code></b> <b><code> 14223🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 240,923 | 🐛 170 | 📅 2024-11-19)
+##### Tool: <b><code>240786⭐</code></b> <b><code> 14223🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 240,939 | 🐛 170 | 📅 2024-11-19)
 
 ###### Reboot system from init
 
@@ -3953,7 +3953,7 @@ certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 
 ***
 
-##### Tool: <b><code>240786⭐</code></b> <b><code> 14223🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 240,923 | 🐛 170 | 📅 2024-11-19)
+##### Tool: <b><code>240786⭐</code></b> <b><code> 14223🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 240,939 | 🐛 170 | 📅 2024-11-19)
 
 ###### Get all subnets for specific AS (Autonomous system)
 
@@ -4445,7 +4445,7 @@ Unsuccessful ASN gathering.
 
 ## Source
 
-<b><code>240786⭐</code></b> <b><code> 14223🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,923 | 🐛 170 | 📅 2024-11-19)
+<b><code>240786⭐</code></b> <b><code> 14223🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,939 | 🐛 170 | 📅 2024-11-19)
 
 ***
 

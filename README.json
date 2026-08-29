@@ -16,12 +16,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "General purpose TLS and crypto library",
+                        "homepage": "https://openssl-library.org/",
                         "id": 7634677,
                         "language": "C",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-28T16:21:13Z",
+                        "open_issues": 1517,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30712
+                        "stars": 30712,
+                        "topics": [
+                          "cryptography",
+                          "decryption",
+                          "encryption",
+                          "openssl",
+                          "ssl",
+                          "tls"
+                        ]
                       },
                       "first_seen": "2026-08-28T05:50:29.706Z"
                     }
@@ -41,12 +53,37 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+                "homepage": null,
                 "id": 138393139,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
+                "open_issues": 170,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240923
+                "stars": 240939,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bsd",
+                  "cheatsheets",
+                  "devops",
+                  "guidelines",
+                  "hacking",
+                  "hacks",
+                  "howtos",
+                  "linux",
+                  "lists",
+                  "manuals",
+                  "one-liners",
+                  "pentesters",
+                  "resources",
+                  "search-engines",
+                  "security",
+                  "security-researchers",
+                  "sysops"
+                ]
               },
               "title": "Tool: 240786⭐ 14223🍴 system-other)",
               "first_seen": "2026-08-28T05:50:29.706Z"
@@ -57,12 +94,37 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+                "homepage": null,
                 "id": 138393139,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
+                "open_issues": 170,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240923
+                "stars": 240939,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bsd",
+                  "cheatsheets",
+                  "devops",
+                  "guidelines",
+                  "hacking",
+                  "hacks",
+                  "howtos",
+                  "linux",
+                  "lists",
+                  "manuals",
+                  "one-liners",
+                  "pentesters",
+                  "resources",
+                  "search-engines",
+                  "security",
+                  "security-researchers",
+                  "sysops"
+                ]
               },
               "title": "Tool: 240786⭐ 14223🍴 network-other)",
               "first_seen": "2026-08-28T05:50:29.706Z"
@@ -77,15 +139,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:40.713Z",
+    "last_updated": "2026-08-29T04:50:57.261Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴",
+      "homepage": null,
       "id": 516425390,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-28T14:00:08Z",
+      "open_issues": 2,
       "owner": "Correia-jpv",
       "repo": "fucking-the-book-of-secret-knowledge",
-      "stars": 321
+      "stars": 321,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bsd",
+        "cheatsheets",
+        "devops",
+        "guidelines",
+        "hacking",
+        "hacks",
+        "howtos",
+        "linux",
+        "lists",
+        "manuals",
+        "one-liners",
+        "pentesters",
+        "resources",
+        "search-engines",
+        "security",
+        "security-researchers",
+        "sysops"
+      ]
     },
     "original_repository_sha": "f2c047da768eacac89bacb2a91dc56bc859cbc46",
     "enhanced_repository": "enhansome/enhansome-fucking-the-book-of-secret-knowledge",
