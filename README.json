@@ -11,17 +11,17 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "30690⭐ 11408🍴 openssl objects.txt",
+                      "title": "30709⭐ 11419🍴 openssl objects.txt",
                       "description": ")",
                       "children": [],
                       "repo_info": {
                         "archived": false,
                         "id": 7634677,
                         "language": "C",
-                        "last_commit": "2026-08-27T16:50:14Z",
+                        "last_commit": "2026-08-28T16:21:13Z",
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30703
+                        "stars": 30712
                       },
                       "first_seen": "2026-08-28T05:50:29.706Z"
                     }
@@ -46,9 +46,9 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240716
+                "stars": 240923
               },
-              "title": "Tool: 240396⭐ 14213🍴 system-other)",
+              "title": "Tool: 240786⭐ 14223🍴 system-other)",
               "first_seen": "2026-08-28T05:50:29.706Z"
             },
             {
@@ -62,9 +62,9 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240716
+                "stars": 240923
               },
-              "title": "Tool: 240396⭐ 14213🍴 network-other)",
+              "title": "Tool: 240786⭐ 14223🍴 network-other)",
               "first_seen": "2026-08-28T05:50:29.706Z"
             }
           ],
@@ -77,17 +77,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:50:29.706Z",
+    "last_updated": "2026-08-29T03:23:40.713Z",
     "original_repository_info": {
       "archived": false,
       "id": 516425390,
       "language": null,
-      "last_commit": "2026-08-26T06:56:13Z",
+      "last_commit": "2026-08-28T14:00:08Z",
       "owner": "Correia-jpv",
       "repo": "fucking-the-book-of-secret-knowledge",
       "stars": 321
     },
-    "original_repository_sha": "348a1ee32c103c92d16747fdef62a2d089e55d4b",
+    "original_repository_sha": "f2c047da768eacac89bacb2a91dc56bc859cbc46",
     "enhanced_repository": "enhansome/enhansome-fucking-the-book-of-secret-knowledge",
     "enhanced_repository_description": null,
     "title": "Awesome fucking the book of secret knowledge with stars"
