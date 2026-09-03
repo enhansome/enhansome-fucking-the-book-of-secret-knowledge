@@ -21,8 +21,8 @@
                         "id": 7634677,
                         "language": "C",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-02T15:05:17Z",
-                        "open_issues": 1546,
+                        "last_commit": "2026-09-03T09:32:14Z",
+                        "open_issues": 1557,
                         "owner": "openssl",
                         "repo": "openssl",
                         "stars": 30745,
@@ -62,7 +62,7 @@
                 "open_issues": 169,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 241723,
+                "stars": 241920,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -103,7 +103,7 @@
                 "open_issues": 169,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 241723,
+                "stars": 241920,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -139,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:36:51.982Z",
+    "last_updated": "2026-09-03T23:34:59.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴",
