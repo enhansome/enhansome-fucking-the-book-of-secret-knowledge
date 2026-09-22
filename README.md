@@ -2775,7 +2775,7 @@ __EOF__
 
 For more information please look at these great explanations:
 
-* <b><code> 30808⭐</code></b> <b><code> 11470🍴</code></b> [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,813 | 🐛 1,561 | 🌐 C | 📅 2026-09-18)
+* <b><code> 30808⭐</code></b> <b><code> 11470🍴</code></b> [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,818 | 🐛 1,549 | 🌐 C | 📅 2026-09-21)
 * 🌎 [RFC 5280](tools.ietf.org/html/rfc5280)
 * 🌎 [How to create multidomain certificates using config files](apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
 * 🌎 [Generate a multi domains certificate using config files](gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
@@ -3047,7 +3047,7 @@ gpg2 --batch --list-packets archive.gpg
 
 ***
 
-##### Tool: <b><code>244833⭐</code></b> <b><code> 14357🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 244,961 | 🐛 171 | 📅 2024-11-19)
+##### Tool: <b><code>244833⭐</code></b> <b><code> 14357🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 245,160 | 🐛 171 | 📅 2024-11-19)
 
 ###### Reboot system from init
 
@@ -3953,7 +3953,7 @@ certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 
 ***
 
-##### Tool: <b><code>244833⭐</code></b> <b><code> 14357🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 244,961 | 🐛 171 | 📅 2024-11-19)
+##### Tool: <b><code>244833⭐</code></b> <b><code> 14357🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 245,160 | 🐛 171 | 📅 2024-11-19)
 
 ###### Get all subnets for specific AS (Autonomous system)
 
@@ -4445,8 +4445,8 @@ Unsuccessful ASN gathering.
 
 ## Source
 
-<b><code>244833⭐</code></b> <b><code> 14357🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 244,961 | 🐛 171 | 📅 2024-11-19)
+<b><code>244833⭐</code></b> <b><code> 14357🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 245,160 | 🐛 171 | 📅 2024-11-19)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
