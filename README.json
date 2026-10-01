@@ -11,7 +11,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "30847⭐ 11497🍴 openssl objects.txt",
+                      "title": "30864⭐ 11499🍴 openssl objects.txt",
                       "description": ")",
                       "children": [],
                       "repo_info": {
@@ -21,11 +21,11 @@
                         "id": 7634677,
                         "language": "C",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-29T20:41:14Z",
-                        "open_issues": 1556,
+                        "last_commit": "2026-09-30T14:14:14Z",
+                        "open_issues": 1559,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30856,
+                        "stars": 30866,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -62,7 +62,7 @@
                 "open_issues": 172,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 246845,
+                "stars": 247069,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -85,7 +85,7 @@
                   "sysops"
                 ]
               },
-              "title": "Tool: 246524⭐ 14405🍴 system-other)",
+              "title": "Tool: 246973⭐ 14430🍴 system-other)",
               "first_seen": "2026-08-28T05:50:29.706Z"
             },
             {
@@ -103,7 +103,7 @@
                 "open_issues": 172,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 246845,
+                "stars": 247069,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -126,7 +126,7 @@
                   "sysops"
                 ]
               },
-              "title": "Tool: 246524⭐ 14405🍴 network-other)",
+              "title": "Tool: 246973⭐ 14430🍴 network-other)",
               "first_seen": "2026-08-28T05:50:29.706Z"
             }
           ],
@@ -139,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:47:34.884Z",
+    "last_updated": "2026-10-01T00:51:59.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴",
@@ -147,7 +147,7 @@
       "id": 516425390,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-28T14:39:01Z",
+      "last_commit": "2026-09-30T15:12:22Z",
       "open_issues": 3,
       "owner": "Correia-jpv",
       "repo": "fucking-the-book-of-secret-knowledge",
@@ -174,7 +174,7 @@
         "sysops"
       ]
     },
-    "original_repository_sha": "d002eaa8728c9ef1019e27a21a854be5340e70ae",
+    "original_repository_sha": "0e164540fc376a7c66b1264ef01b07263cb4876e",
     "enhanced_repository": "enhansome/enhansome-fucking-the-book-of-secret-knowledge",
     "enhanced_repository_description": null,
     "title": "Awesome fucking the book of secret knowledge with stars"
