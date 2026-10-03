@@ -12,7 +12,7 @@
                     {
                       "node_type": "item",
                       "title": "30877⭐ 11505🍴 openssl objects.txt",
-                      "description": ")",
+                      "description": "openssl/openssl",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -22,10 +22,10 @@
                         "language": "C",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-02T10:31:16Z",
-                        "open_issues": 1529,
+                        "open_issues": 1530,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30879,
+                        "stars": 30880,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -62,7 +62,7 @@
                 "open_issues": 172,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 247495,
+                "stars": 247533,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -103,7 +103,7 @@
                 "open_issues": 172,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 247495,
+                "stars": 247533,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -139,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:46:11.609Z",
+    "last_updated": "2026-10-03T04:44:43.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴",
