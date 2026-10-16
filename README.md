@@ -118,21 +118,21 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.gnu.org/software/bash/">🌎 <b>GNU Bash</b></a> - is an sh-compatible shell that incorporates useful features from the Korn shell and C shell.<br>
 &nbsp;&nbsp; <a href="https://www.zsh.org/">🌎 <b>Zsh</b></a> - is a shell designed for interactive use, although it is also a powerful scripting language.<br>
 &nbsp;&nbsp; <a href="https://tcl-lang.org/">🌎 <b>tclsh</b></a> - is a very powerful cross-platform shell, suitable for a huge range of uses.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;15280⭐</code></b> <b><code>&nbsp;&nbsp;2311🍴</code></b> <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a></a> - is a framework for using, developing and maintaining shell scripts and custom commands.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;15281⭐</code></b> <b><code>&nbsp;&nbsp;2312🍴</code></b> <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a></a> - is a framework for using, developing and maintaining shell scripts and custom commands.<br>
 &nbsp;&nbsp; <a href="https://ohmyz.sh/">🌎 <b>Oh My ZSH!</b></a> - is the best framework for managing your Zsh configuration.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;11400⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;807🍴</code></b> <a href="https://github.com/oh-my-fish/oh-my-fish"><b>Oh My Fish</b></a></a> - the Fishshell framework.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;60257⭐</code></b> <b><code>&nbsp;&nbsp;2700🍴</code></b> <a href="https://github.com/starship/starship"><b>Starship</b></a></a> - the cross-shell prompt written in Rust.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;55240⭐</code></b> <b><code>&nbsp;&nbsp;2447🍴</code></b> <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;60283⭐</code></b> <b><code>&nbsp;&nbsp;2704🍴</code></b> <a href="https://github.com/starship/starship"><b>Starship</b></a></a> - the cross-shell prompt written in Rust.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;55253⭐</code></b> <b><code>&nbsp;&nbsp;2446🍴</code></b> <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
 </p>
 
 ##### :black\_small\_square: Shell plugins
 
 <p>
 &nbsp;&nbsp;  <b><code>&nbsp;17059⭐</code></b> <b><code>&nbsp;&nbsp;1174🍴</code></b> <a href="https://github.com/rupa/z"><b>z</b></a></a> - tracks the folder you use the most and allow you to jump, without having to type the whole path.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;83557⭐</code></b> <b><code>&nbsp;&nbsp;5402🍴</code></b> <a href="https://github.com/junegunn/fzf"><b>fzf</b></a></a> - is a general-purpose command-line fuzzy finder.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;36126⭐</code></b> <b><code>&nbsp;&nbsp;1941🍴</code></b> <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a></a> - Fish-like autosuggestions for Zsh.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;23027⭐</code></b> <b><code>&nbsp;&nbsp;1374🍴</code></b> <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a></a> - Fish shell like syntax highlighting for Zsh.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;18056⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;616🍴</code></b> <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;83592⭐</code></b> <b><code>&nbsp;&nbsp;5545🍴</code></b> <a href="https://github.com/junegunn/fzf"><b>fzf</b></a></a> - is a general-purpose command-line fuzzy finder.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;36125⭐</code></b> <b><code>&nbsp;&nbsp;1940🍴</code></b> <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a></a> - Fish-like autosuggestions for Zsh.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;23028⭐</code></b> <b><code>&nbsp;&nbsp;1374🍴</code></b> <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a></a> - Fish shell like syntax highlighting for Zsh.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;18059⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;623🍴</code></b> <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
 </p>
 
 ##### :black\_small\_square: Managers
@@ -140,7 +140,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp; <a href="https://midnight-commander.org/">🌎 <b>Midnight Commander</b></a> - is a visual file manager, licensed under GNU General Public License.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;17423⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;939🍴</code></b> <a href="https://github.com/ranger/ranger"><b>ranger</b></a></a> - is a VIM-inspired filemanager for the console.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;22068⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;827🍴</code></b> <a href="https://github.com/jarun/nnn"><b>nnn</b></a></a> - is a tiny, lightning fast, feature-packed file manager.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;22078⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;834🍴</code></b> <a href="https://github.com/jarun/nnn"><b>nnn</b></a></a> - is a tiny, lightning fast, feature-packed file manager.<br>
 &nbsp;&nbsp; <a href="https://www.gnu.org/software/screen/">🌎 <b>screen</b></a> - is a full-screen window manager that multiplexes a physical terminal.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a></a> - is a terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;276⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;42🍴</code></b> <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a></a> - is a tool to set comfortable and easy to use functionality tmux-sessions.<br>
@@ -152,7 +152,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="http://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
 &nbsp;&nbsp; <a href="https://www.vim.org/">🌎 <b>vim</b></a> - is a highly configurable text editor.<br>
 &nbsp;&nbsp; <a href="https://www.gnu.org/software/emacs/">🌎 <b>emacs</b></a> - is an extensible, customizable, free/libre text editor, and more.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;29704⭐</code></b> <b><code>&nbsp;&nbsp;1387🍴</code></b> <a href="https://github.com/zyedidia/micro"><b>micro</b></a></a> - is a modern and intuitive terminal-based text editor.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;29711⭐</code></b> <b><code>&nbsp;&nbsp;1387🍴</code></b> <a href="https://github.com/zyedidia/micro"><b>micro</b></a></a> - is a modern and intuitive terminal-based text editor.<br>
 &nbsp;&nbsp; <a href="https://neovim.io/">🌎 <b>neovim</b></a> - is a free open source, powerful, extensible and usable code editor.<br>
 &nbsp;&nbsp; <a href="https://www.spacemacs.org/">🌎 <b>spacemacs</b></a> - a community-driven Emacs distribution.<br>
 &nbsp;&nbsp; <a href="https://spacevim.org/">🌎 <b>spacevim</b></a> - a community-driven vim distribution.<br>
@@ -161,7 +161,7 @@ Only main chapters:
 ##### :black\_small\_square: Files and directories
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;44745⭐</code></b> <b><code>&nbsp;&nbsp;1154🍴</code></b> <a href="https://github.com/sharkdp/fd"><b>fd</b></a></a> - is a simple, fast and user-friendly alternative to find.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;44759⭐</code></b> <b><code>&nbsp;&nbsp;1157🍴</code></b> <a href="https://github.com/sharkdp/fd"><b>fd</b></a></a> - is a simple, fast and user-friendly alternative to find.<br>
 &nbsp;&nbsp; <a href="https://dev.yorhel.nl/ncdu">🌎 <b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br>
 </p>
 
@@ -172,12 +172,12 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://mosh.org/">🌎 <b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br>
 &nbsp;&nbsp; <a href="https://eternalterminal.dev/">🌎 <b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br>
 &nbsp;&nbsp; <a href="https://nmap.org/">🌎 <b>nmap</b></a> - is a free and open source (license) utility for network discovery and security auditing.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6401⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;988🍴</code></b> <a href="https://github.com/zmap/zmap"><b>zmap</b></a></a> - is a fast single packet network scanner designed for Internet-wide network surveys.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;20571⭐</code></b> <b><code>&nbsp;&nbsp;1395🍴</code></b> <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a></a> - to find all open ports faster than Nmap.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;26078⭐</code></b> <b><code>&nbsp;&nbsp;3247🍴</code></b> <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a></a> - is the fastest Internet port scanner, spews SYN packets asynchronously.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6402⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;989🍴</code></b> <a href="https://github.com/zmap/zmap"><b>zmap</b></a></a> - is a fast single packet network scanner designed for Internet-wide network surveys.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;20577⭐</code></b> <b><code>&nbsp;&nbsp;1395🍴</code></b> <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a></a> - to find all open ports faster than Nmap.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;26074⭐</code></b> <b><code>&nbsp;&nbsp;3246🍴</code></b> <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a></a> - is the fastest Internet port scanner, spews SYN packets asynchronously.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;172⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;36🍴</code></b> <a href="https://github.com/gvb84/pbscan"><b>pbscan</b></a></a> - is a faster and more efficient stateless SYN scanner and banner grabber.<br>
 &nbsp;&nbsp; <a href="http://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3366⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;375🍴</code></b> <a href="https://github.com/traviscross/mtr"><b>mtr</b></a></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3367⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;375🍴</code></b> <a href="https://github.com/traviscross/mtr"><b>mtr</b></a></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2719⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;236🍴</code></b> <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a></a> - utility which combines the functions of the different network probes in one diagnostic tool.<br>
 &nbsp;&nbsp; <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
 &nbsp;&nbsp; <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
@@ -193,13 +193,13 @@ Only main chapters:
 &nbsp;&nbsp; <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1789⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;142🍴</code></b> <a href="https://github.com/vergoh/vnstat"><b>vnstat</b></a></a> - is a network traffic monitor for Linux and BSD.<br>
 &nbsp;&nbsp; <a href="https://iperf.fr/">🌎 <b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5868⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;405🍴</code></b> <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5869⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;405🍴</code></b> <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;191⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;19🍴</code></b> <a href="https://github.com/jwbensley/Etherate"><b>Etherate</b></a></a> - is a Linux CLI based Ethernet and MPLS traffic testing tool.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4355⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;566🍴</code></b> <a href="https://github.com/mpolden/echoip"><b>echoip</b></a></a> - is a IP address lookup service.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;528⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;75🍴</code></b> <a href="https://github.com/troglobit/nemesis"><b>Nemesis</b></a></a> - packet manipulation CLI tool; craft and inject packets of several protocols.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;394⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;83🍴</code></b> <a href="https://github.com/packetfu/packetfu"><b>packetfu</b></a></a> - a mid-level packet manipulation library for Ruby.<br>
 &nbsp;&nbsp; <a href="https://scapy.net/">🌎 <b>Scapy</b></a> - packet manipulation library; forge, send, decode, capture packets of a wide number of protocols.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;16169⭐</code></b> <b><code>&nbsp;&nbsp;3970🍴</code></b> <a href="https://github.com/SecureAuthCorp/impacket"><b>impacket</b></a></a> - is a collection of Python classes for working with network protocols.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;16172⭐</code></b> <b><code>&nbsp;&nbsp;3970🍴</code></b> <a href="https://github.com/SecureAuthCorp/impacket"><b>impacket</b></a></a> - is a collection of Python classes for working with network protocols.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3001⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;261🍴</code></b> <a href="https://github.com/arthepsy/ssh-audit"><b>ssh-audit</b></a></a> - is a tool for SSH server auditing.<br>
 &nbsp;&nbsp; <a href="https://aria2.github.io/">🌎 <b>aria2</b></a> - is a lightweight multi-protocol & multi-source command-line download utility.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;297⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;32🍴</code></b> <a href="https://github.com/x-way/iptables-tracer"><b>iptables-tracer</b></a></a> - observe the path of packets through the iptables chains.<br>
@@ -211,18 +211,18 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1064⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;110🍴</code></b> <a href="https://github.com/farrokhi/dnsdiag"><b>dnsdiag</b></a></a> - is a DNS diagnostics and performance measurement tools.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1820⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;217🍴</code></b> <a href="https://github.com/mschwager/fierce"><b>fierce</b></a></a> - is a DNS reconnaissance tool for locating non-contiguous IP space.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;14595⭐</code></b> <b><code>&nbsp;&nbsp;1633🍴</code></b> <a href="https://github.com/subfinder/subfinder"><b>subfinder</b></a></a> - is a subdomain discovery tool that discovers valid subdomains for websites.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;11060⭐</code></b> <b><code>&nbsp;&nbsp;2213🍴</code></b> <a href="https://github.com/aboul3la/Sublist3r"><b>sublist3r</b></a></a> - is a fast subdomains enumeration tool for penetration testers.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;15355⭐</code></b> <b><code>&nbsp;&nbsp;2201🍴</code></b> <a href="https://github.com/OWASP/Amass"><b>amass</b></a></a> - is tool that obtains subdomain names by scraping data sources, crawling web archives, and more.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1820⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;218🍴</code></b> <a href="https://github.com/mschwager/fierce"><b>fierce</b></a></a> - is a DNS reconnaissance tool for locating non-contiguous IP space.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;14601⭐</code></b> <b><code>&nbsp;&nbsp;1635🍴</code></b> <a href="https://github.com/subfinder/subfinder"><b>subfinder</b></a></a> - is a subdomain discovery tool that discovers valid subdomains for websites.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;11061⭐</code></b> <b><code>&nbsp;&nbsp;2214🍴</code></b> <a href="https://github.com/aboul3la/Sublist3r"><b>sublist3r</b></a></a> - is a fast subdomains enumeration tool for penetration testers.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;15362⭐</code></b> <b><code>&nbsp;&nbsp;2199🍴</code></b> <a href="https://github.com/OWASP/Amass"><b>amass</b></a></a> - is tool that obtains subdomain names by scraping data sources, crawling web archives, and more.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;930⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;154🍴</code></b> <a href="https://github.com/google/namebench"><b>namebench</b></a></a> - provides personalized DNS server recommendations based on your browsing history.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3654⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;506🍴</code></b> <a href="https://github.com/blechschmidt/massdns"><b>massdns</b></a></a> - is a high-performance DNS stub resolver for bulk lookups and reconnaissance.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4203⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;874🍴</code></b> <a href="https://github.com/guelfoweb/knock"><b>knock</b></a></a> - is a tool to enumerate subdomains on a target domain through a wordlist.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4204⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;874🍴</code></b> <a href="https://github.com/guelfoweb/knock"><b>knock</b></a></a> - is a tool to enumerate subdomains on a target domain through a wordlist.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;478⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;73🍴</code></b> <a href="https://github.com/DNS-OARC/dnsperf"><b>dnsperf</b></a></a> - DNS performance testing tools.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0🍴</code></b> <a href="https://github.com/jedisct1/dnscrypt-proxy"><b>dnscrypt-proxy 2</b></a></a> - a flexible DNS proxy, with support for encrypted DNS protocols.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0🍴</code></b> <a href="https://github.com/jedisct1/dnscrypt-proxy"><b>dnscrypt-proxy 2</b></a></a> - a flexible DNS proxy, with support for encrypted DNS protocols.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;115⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;24🍴</code></b> <a href="https://github.com/dnsdb/dnsdbq"><b>dnsdbq</b></a></a> - API client providing access to passive DNS database systems.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1416⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;108🍴</code></b> <a href="https://github.com/looterz/grimd"><b>grimd</b></a></a> - fast dns proxy, built to black-hole internet advertisements and malware servers.<br>
-  &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5760⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;856🍴</code></b> <a href="https://github.com/elceef/dnstwist"><b>dnstwist</b></a></a> - detect typosquatters, phishing attacks, fraud, and brand impersonation.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1415⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;108🍴</code></b> <a href="https://github.com/looterz/grimd"><b>grimd</b></a></a> - fast dns proxy, built to black-hole internet advertisements and malware servers.<br>
+  &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5761⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;857🍴</code></b> <a href="https://github.com/elceef/dnstwist"><b>dnstwist</b></a></a> - detect typosquatters, phishing attacks, fraud, and brand impersonation.<br>
 </p>
 
 ##### :black\_small\_square: Network (HTTP)
@@ -230,27 +230,27 @@ Only main chapters:
 <p>
 &nbsp;&nbsp; <a href="https://curl.haxx.se/">🌎 <b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br>
 &nbsp;&nbsp; <a href="https://gitlab.com/davidjpeacock/kurly">🌎 <b>kurly</b></a> - is an alternative to the widely popular curl program, written in Golang.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;38639⭐</code></b> <b><code>&nbsp;&nbsp;4017🍴</code></b> <a href="https://github.com/jakubroztocil/httpie"><b>HTTPie</b></a></a> - is an user-friendly HTTP client.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;10741⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;416🍴</code></b> <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a></a> - is an interactive cli tool for HTTP inspection.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;736⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;80🍴</code></b> <a href="https://github.com/summerwind/h2spec"><b>h2spec</b></a></a> - is a conformance testing tool for HTTP/2 implementation.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;38646⭐</code></b> <b><code>&nbsp;&nbsp;4019🍴</code></b> <a href="https://github.com/jakubroztocil/httpie"><b>HTTPie</b></a></a> - is an user-friendly HTTP client.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10741⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;424🍴</code></b> <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a></a> - is an interactive cli tool for HTTP inspection.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;737⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;80🍴</code></b> <a href="https://github.com/summerwind/h2spec"><b>h2spec</b></a></a> - is a conformance testing tool for HTTP/2 implementation.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;412⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;35🍴</code></b> <a href="https://github.com/gildasio/h2t"><b>h2t</b></a></a> - is a simple tool to help sysadmins to hardening their websites.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3864⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;244🍴</code></b> <a href="https://github.com/trimstray/htrace.sh"><b>htrace.sh</b></a></a> - is a simple Swiss Army knife for http/https troubleshooting and profiling.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6219⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;384🍴</code></b> <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a></a> - is a tool that visualizes curl statistics in a way of beauty and clarity.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4141⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;122🍴</code></b> <a href="https://github.com/gchaincl/httplab"><b>httplab</b></a></a> - is an interactive web server.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6219⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;386🍴</code></b> <a href="https://github.com/reorx/httpstat"><b>httpstat</b></a></a> - is a tool that visualizes curl statistics in a way of beauty and clarity.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4142⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;122🍴</code></b> <a href="https://github.com/gchaincl/httplab"><b>httplab</b></a></a> - is an interactive web server.<br>
 &nbsp;&nbsp; <a href="https://lynx.browser.org/">🌎 <b>Lynx</b></a> - is a text browser for the World Wide Web.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a></a> - is a fully interactive, real-time, and modern text-based browser.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6701⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;454🍴</code></b> <a href="https://github.com/dhamaniasad/HeadlessBrowsers"><b>HeadlessBrowsers</b></a></a> - a list of (almost) all headless web browsers in existence.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6702⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;455🍴</code></b> <a href="https://github.com/dhamaniasad/HeadlessBrowsers"><b>HeadlessBrowsers</b></a></a> - a list of (almost) all headless web browsers in existence.<br>
 &nbsp;&nbsp; <a href="https://httpd.apache.org/docs/2.4/programs/ab.html">🌎 <b>ab</b></a> - is a single-threaded command line tool for measuring the performance of HTTP web servers.<br>
 &nbsp;&nbsp; <a href="https://www.joedog.org/siege-home/">🌎 <b>siege</b></a> - is an http load testing and benchmarking utility.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;40416⭐</code></b> <b><code>&nbsp;&nbsp;3029🍴</code></b> <a href="https://github.com/wg/wrk"><b>wrk</b></a></a> - is a modern HTTP benchmarking tool capable of generating significant load.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4635⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;422🍴</code></b> <a href="https://github.com/giltene/wrk2"><b>wrk2</b></a></a> - is a constant throughput, correct latency recording variant of wrk.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;25218⭐</code></b> <b><code>&nbsp;&nbsp;1426🍴</code></b> <a href="https://github.com/tsenart/vegeta"><b>vegeta</b></a></a> - is a constant throughput, correct latency recording variant of wrk.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6841⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;333🍴</code></b> <a href="https://github.com/codesenberg/bombardier"><b>bombardier</b></a></a> - is a fast cross-platform HTTP benchmarking tool written in Go.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;40417⭐</code></b> <b><code>&nbsp;&nbsp;3028🍴</code></b> <a href="https://github.com/wg/wrk"><b>wrk</b></a></a> - is a modern HTTP benchmarking tool capable of generating significant load.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4636⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;422🍴</code></b> <a href="https://github.com/giltene/wrk2"><b>wrk2</b></a></a> - is a constant throughput, correct latency recording variant of wrk.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;25224⭐</code></b> <b><code>&nbsp;&nbsp;1426🍴</code></b> <a href="https://github.com/tsenart/vegeta"><b>vegeta</b></a></a> - is a constant throughput, correct latency recording variant of wrk.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6842⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;335🍴</code></b> <a href="https://github.com/codesenberg/bombardier"><b>bombardier</b></a></a> - is a fast cross-platform HTTP benchmarking tool written in Go.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;442⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;91🍴</code></b> <a href="https://github.com/cmpxchg16/gobench"><b>gobench</b></a></a> - http/https load testing and benchmarking tool.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;20698⭐</code></b> <b><code>&nbsp;&nbsp;1323🍴</code></b> <a href="https://github.com/rakyll/hey"><b>hey</b></a></a> - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;20704⭐</code></b> <b><code>&nbsp;&nbsp;1323🍴</code></b> <a href="https://github.com/rakyll/hey"><b>hey</b></a></a> - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1209⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;99🍴</code></b> <a href="https://github.com/tarekziade/boom"><b>boom</b></a></a> - is a script you can use to quickly smoke-test your web app deployment.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1656⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;309🍴</code></b> <a href="https://github.com/shekyan/slowhttptest"><b>SlowHTTPTest</b></a></a> - is a tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;14214⭐</code></b> <b><code>&nbsp;&nbsp;1623🍴</code></b> <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a></a> - is a free and open source directory/file & DNS busting tool written in Go.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1655⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;309🍴</code></b> <a href="https://github.com/shekyan/slowhttptest"><b>SlowHTTPTest</b></a></a> - is a tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;14220⭐</code></b> <b><code>&nbsp;&nbsp;1624🍴</code></b> <a href="https://github.com/OJ/gobuster"><b>gobuster</b></a></a> - is a free and open source directory/file & DNS busting tool written in Go.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1767⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;248🍴</code></b> <a href="https://github.com/ssllabs/ssllabs-scan"><b>ssllabs-scan</b></a></a> - command-line reference-implementation client for SSL Labs APIs.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1848⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;163🍴</code></b> <a href="https://github.com/mozilla/http-observatory"><b>http-observatory</b></a></a> - Mozilla HTTP Observatory cli version.<br>
 &nbsp;&nbsp; <a href="https://hurl.dev">🌎 <b>Hurl</b></a> - is a command line tool to run and test HTTP requests with plain text.<br>
@@ -264,12 +264,12 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/nabla-c0d3/sslyze"><b>sslyze
 </b></a> - fast and powerful SSL/TLS server scanning library.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2632⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;419🍴</code></b> <a href="https://github.com/rbsec/sslscan"><b>sslscan</b></a></a> - tests SSL/TLS enabled services to discover supported cipher suites.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9235⭐</code></b> <b><code>&nbsp;&nbsp;1150🍴</code></b> <a href="https://github.com/drwetter/testssl.sh"><b>testssl.sh</b></a></a> - testing TLS/SSL encryption anywhere on any port.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9235⭐</code></b> <b><code>&nbsp;&nbsp;1151🍴</code></b> <a href="https://github.com/drwetter/testssl.sh"><b>testssl.sh</b></a></a> - testing TLS/SSL encryption anywhere on any port.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1993⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;267🍴</code></b> <a href="https://github.com/mozilla/cipherscan"><b>cipherscan</b></a></a> - a very simple way to find out which SSL ciphersuites are supported by a target.<br>
 &nbsp;&nbsp; <a href="http://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;33273⭐</code></b> <b><code>&nbsp;&nbsp;3508🍴</code></b> <a href="https://github.com/certbot/certbot"><b>Certbot</b></a></a> - is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;59742⭐</code></b> <b><code>&nbsp;&nbsp;3145🍴</code></b> <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2456⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;212🍴</code></b> <a href="https://github.com/square/certstrap"><b>certstrap</b></a></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;33274⭐</code></b> <b><code>&nbsp;&nbsp;3507🍴</code></b> <a href="https://github.com/certbot/certbot"><b>Certbot</b></a></a> - is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;59744⭐</code></b> <b><code>&nbsp;&nbsp;3145🍴</code></b> <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2457⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;212🍴</code></b> <a href="https://github.com/square/certstrap"><b>certstrap</b></a></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1034⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;167🍴</code></b> <a href="https://github.com/yassineaboukir/sublert"><b>Sublert</b></a></a> - is a security and reconnaissance tool to automatically monitor new subdomains.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;383⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;52🍴</code></b> <a href="https://github.com/trimstray/mkchain"><b>mkchain</b></a></a> - open source tool to help you build a valid SSL certificate chain.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;785⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;289🍴</code></b> <a href="https://github.com/Matty9191/ssl-cert-check"><b>ssl-cert-check</b></a></a> - SSL Certification Expiration Checker.<br>
@@ -280,7 +280,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp; <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/ch-selinux">🌎 <b>SELinux</b></a> - provides a flexible Mandatory Access Control (MAC) system built into the Linux kernel.<br>
 &nbsp;&nbsp; <a href="https://wiki.ubuntu.com/AppArmor">🌎 <b>AppArmor</b></a> - proactively protects the operating system and applications from external or internal threats.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1069⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;95🍴</code></b> <a href="https://github.com/grapheneX/grapheneX"><b>grapheneX</b></a></a> - Automated System Hardening Framework.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1070⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;95🍴</code></b> <a href="https://github.com/grapheneX/grapheneX"><b>grapheneX</b></a></a> - Automated System Hardening Framework.<br>
 &nbsp;&nbsp; <a href="https://github.com/dev-sec/"><b>DevSec Hardening Framework</b></a> - Security + DevOps: Automatic Server Hardening.<br>
 </p>
 
@@ -291,33 +291,33 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/chap-system_auditing">🌎 <b>auditd</b></a> - provides a way to track security-relevant information on your system.<br>
 &nbsp;&nbsp; <a href="https://www.nongnu.org/tiger/">🌎 <b>Tiger</b></a> - is a security tool that can be use both as a security audit and intrusion detection system.<br>
 &nbsp;&nbsp; <a href="https://cisofy.com/lynis/">🌎 <b>Lynis</b></a> - battle-tested security tool for systems running Linux, macOS, or Unix-based operating system.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8060⭐</code></b> <b><code>&nbsp;&nbsp;2015🍴</code></b> <a href="https://github.com/rebootuser/LinEnum"><b>LinEnum</b></a></a> - scripted Local Linux Enumeration & Privilege Escalation Checks.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8064⭐</code></b> <b><code>&nbsp;&nbsp;2014🍴</code></b> <a href="https://github.com/rebootuser/LinEnum"><b>LinEnum</b></a></a> - scripted Local Linux Enumeration & Privilege Escalation Checks.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;158⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;34🍴</code></b> <a href="https://github.com/installation/rkhunter"><b>Rkhunter</b></a></a> - scanner tool for Linux systems that scans backdoors, rootkits and local exploits on your systems.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3921⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;493🍴</code></b> <a href="https://github.com/hasherezade/pe-sieve"><b>PE-sieve</b></a></a> - is a light-weight tool that helps to detect malware running on the system.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;20668⭐</code></b> <b><code>&nbsp;&nbsp;3400🍴</code></b> <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"><b>PEASS</b></a></a> - privilege escalation tools for Windows and Linux/Unix and MacOS.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3923⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;492🍴</code></b> <a href="https://github.com/hasherezade/pe-sieve"><b>PE-sieve</b></a></a> - is a light-weight tool that helps to detect malware running on the system.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;20678⭐</code></b> <b><code>&nbsp;&nbsp;3403🍴</code></b> <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"><b>PEASS</b></a></a> - privilege escalation tools for Windows and Linux/Unix and MacOS.<br>
 </p>
 
 ##### :black\_small\_square: System Diagnostics/Debuggers
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2715⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;502🍴</code></b> <a href="https://github.com/strace/strace"><b>strace</b></a></a> - diagnostic, debugging and instructional userspace utility for Linux.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2715⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;503🍴</code></b> <a href="https://github.com/strace/strace"><b>strace</b></a></a> - diagnostic, debugging and instructional userspace utility for Linux.<br>
 &nbsp;&nbsp; <a href="http://dtrace.org/blogs/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
 &nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Ltrace">🌎 <b>ltrace</b></a> - is a library call tracer, used to trace calls made by programs to library functions.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;137⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> <a href="https://github.com/brainsmoke/ptrace-burrito"><b>ptrace-burrito</b></a></a> - is a friendly wrapper around ptrace.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;10474⭐</code></b> <b><code>&nbsp;&nbsp;1666🍴</code></b> <a href="https://github.com/brendangregg/perf-tools"><b>perf-tools</b></a></a> - performance analysis tools based on Linux perf_events (aka perf) and ftrace.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;10370⭐</code></b> <b><code>&nbsp;&nbsp;1493🍴</code></b> <a href="https://github.com/iovisor/bpftrace"><b>bpftrace</b></a></a> - high-level tracing language for Linux eBPF.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8305⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;751🍴</code></b> <a href="https://github.com/draios/sysdig"><b>sysdig</b></a></a> - system exploration and troubleshooting tool with first class support for containers.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10473⭐</code></b> <b><code>&nbsp;&nbsp;1666🍴</code></b> <a href="https://github.com/brendangregg/perf-tools"><b>perf-tools</b></a></a> - performance analysis tools based on Linux perf_events (aka perf) and ftrace.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10376⭐</code></b> <b><code>&nbsp;&nbsp;1493🍴</code></b> <a href="https://github.com/iovisor/bpftrace"><b>bpftrace</b></a></a> - high-level tracing language for Linux eBPF.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8304⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;752🍴</code></b> <a href="https://github.com/draios/sysdig"><b>sysdig</b></a></a> - system exploration and troubleshooting tool with first class support for containers.<br>
 &nbsp;&nbsp; <a href="http://www.valgrind.org/"><b>Valgrind</b></a> - is an instrumentation framework for building dynamic analysis tools.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8982⭐</code></b> <b><code>&nbsp;&nbsp;1538🍴</code></b> <a href="https://github.com/gperftools/gperftools"><b>gperftools</b></a></a> - high-performance multi-threaded malloc() implementation, plus some performance analysis tools.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8983⭐</code></b> <b><code>&nbsp;&nbsp;1537🍴</code></b> <a href="https://github.com/gperftools/gperftools"><b>gperftools</b></a></a> - high-performance multi-threaded malloc() implementation, plus some performance analysis tools.<br>
 &nbsp;&nbsp; <a href="https://nicolargo.github.io/glances/">🌎 <b>glances</b></a> - cross-platform system monitoring tool written in Python.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5887⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;570🍴</code></b> <a href="https://github.com/hishamhm/htop"><b>htop</b></a></a> - interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;11116⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;554🍴</code></b> <a href="https://github.com/aristocratos/bashtop"><b>bashtop</b></a></a> - Linux resource monitor written in pure Bash.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;11114⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;554🍴</code></b> <a href="https://github.com/aristocratos/bashtop"><b>bashtop</b></a></a> - Linux resource monitor written in pure Bash.<br>
 &nbsp;&nbsp; <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br>
 &nbsp;&nbsp; <a href="https://www.atoptool.nl/">🌎 <b>atop</b></a> - ASCII performance monitor. Includes statistics for CPU, memory, disk, swap, network, and processes.<br>
 &nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Lsof">🌎 <b>lsof</b></a> - displays in its output information about files that are opened by processes.<br>
 &nbsp;&nbsp; <a href="http://www.brendangregg.com/flamegraphs.html"><b>FlameGraph</b></a> - stack trace visualizer.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1026⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;33🍴</code></b> <a href="https://github.com/zevv/lsofgraph"><b>lsofgraph</b></a></a> - convert Unix lsof output to a graph showing FIFO and UNIX interprocess communication.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;10704⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;665🍴</code></b> <a href="https://github.com/mozilla/rr"><b>rr</b></a></a> - is a lightweight tool for recording, replaying and debugging execution of applications.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10707⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;665🍴</code></b> <a href="https://github.com/mozilla/rr"><b>rr</b></a></a> - is a lightweight tool for recording, replaying and debugging execution of applications.<br>
 &nbsp;&nbsp; <a href="https://pcp.io/index.html">🌎 <b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;10294⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;276🍴</code></b> <a href="https://github.com/sharkdp/hexyl"><b>hexyl</b></a></a> - a command-line hex viewer.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2211⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;67🍴</code></b> <a href="https://github.com/p403n1x87/austin"><b>Austin</b></a></a> - Python frame stack sampler for CPython.<br>
@@ -329,27 +329,27 @@ Only main chapters:
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3762⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;76🍴</code></b> <a href="https://github.com/rcoh/angle-grinder"><b>angle-grinder</b></a></a> - slice and dice log files on the command line.<br>
 &nbsp;&nbsp; <a href="https://lnav.org">🌎 <b>lnav</b></a> - log file navigator with search and automatic refresh.<br>
 &nbsp;&nbsp; <a href="https://goaccess.io/">🌎 <b>GoAccess</b></a> - real-time web log analyzer and interactive viewer that runs in a terminal.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6523⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;473🍴</code></b> <a href="https://github.com/lebinh/ngxtop"><b>ngxtop</b></a></a> - real-time metrics for nginx server.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6523⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;474🍴</code></b> <a href="https://github.com/lebinh/ngxtop"><b>ngxtop</b></a></a> - real-time metrics for nginx server.<br>
 </p>
 
 ##### :black\_small\_square: Databases
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;10141⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;407🍴</code></b> <a href="https://github.com/xo/usql"><b>usql</b></a></a> - universal command-line interface for SQL databases.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10145⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;407🍴</code></b> <a href="https://github.com/xo/usql"><b>usql</b></a></a> - universal command-line interface for SQL databases.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;13418⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;611🍴</code></b> <a href="https://github.com/dbcli/pgcli"><b>pgcli</b></a></a> - postgres CLI with autocompletion and syntax highlighting.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;11981⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;698🍴</code></b> <a href="https://github.com/dbcli/mycli"><b>mycli</b></a></a> - terminal client for MySQL with autocompletion and syntax highlighting.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;11983⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;699🍴</code></b> <a href="https://github.com/dbcli/mycli"><b>mycli</b></a></a> - terminal client for MySQL with autocompletion and syntax highlighting.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3317⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;99🍴</code></b> <a href="https://github.com/dbcli/litecli"><b>litecli</b></a></a> - SQLite CLI with autocompletion and syntax highlighting.<br>
   &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1420⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;191🍴</code></b> <a href="https://github.com/dbcli/mssql-cli"><b>mssql-cli</b></a></a> - SQL Server CLI with autocompletion and syntax highlighting.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;23646⭐</code></b> <b><code>&nbsp;&nbsp;2616🍴</code></b> <a href="https://github.com/osquery/osquery"><b>OSQuery</b></a></a> - is a SQL powered operating system instrumentation, monitoring, and analytics framework.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3474⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;219🍴</code></b> <a href="https://github.com/ankane/pgsync"><b>pgsync</b></a></a> - sync data from one Postgres database to another.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2761⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;120🍴</code></b> <a href="https://github.com/laixintao/iredis"><b>iredis</b></a></a> - a terminal client for redis with autocompletion and syntax highlighting.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;23650⭐</code></b> <b><code>&nbsp;&nbsp;2618🍴</code></b> <a href="https://github.com/osquery/osquery"><b>OSQuery</b></a></a> - is a SQL powered operating system instrumentation, monitoring, and analytics framework.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3475⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;219🍴</code></b> <a href="https://github.com/ankane/pgsync"><b>pgsync</b></a></a> - sync data from one Postgres database to another.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2762⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;119🍴</code></b> <a href="https://github.com/laixintao/iredis"><b>iredis</b></a></a> - a terminal client for redis with autocompletion and syntax highlighting.<br>
 &nbsp;&nbsp; <a href="https://www.schemacrawler.com/diagramming.html">🌎 <b>SchemaCrawler</b></a> - generates an E-R diagram of your database.<br>
 </p>
 
 ##### :black\_small\_square: TOR
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2398⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;341🍴</code></b> <a href="https://github.com/GouveaHeitor/nipe"><b>Nipe</b></a></a> - script to make Tor Network your default gateway.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2399⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;341🍴</code></b> <a href="https://github.com/GouveaHeitor/nipe"><b>Nipe</b></a></a> - script to make Tor Network your default gateway.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1193⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;185🍴</code></b> <a href="https://github.com/trimstray/multitor"><b>multitor</b></a></a> - a tool that lets you create multiple TOR instances with a load-balancing.<br>
 </p>
 
@@ -371,13 +371,13 @@ Only main chapters:
 <p>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1004⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;113🍴</code></b> <a href="https://github.com/skx/sysadmin-util"><b>sysadmin-util</b></a></a> - tools for Linux/Unix sysadmins.<br>
 &nbsp;&nbsp; <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6067⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;476🍴</code></b> <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6068⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;475🍴</code></b> <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4091⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;98🍴</code></b> <a href="https://github.com/rgburke/grv"><b>GRV</b></a></a> - is a terminal based interface for viewing Git repositories.<br>
 &nbsp;&nbsp; <a href="https://jonas.github.io/tig/">🌎 <b>Tig</b></a> - text-mode interface for Git.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;63941⭐</code></b> <b><code>&nbsp;&nbsp;5462🍴</code></b> <a href="https://github.com/tldr-pages/tldr"><b>tldr</b></a></a> - simplified and community-driven man pages.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4375⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;393🍴</code></b> <a href="https://github.com/mholt/archiver"><b>archiver</b></a></a> - easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;28419⭐</code></b> <b><code>&nbsp;&nbsp;1783🍴</code></b> <a href="https://github.com/tj/commander.js"><b>commander.js</b></a></a> - minimal CLI creator in JavaScript.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;14528⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;344🍴</code></b> <a href="https://github.com/tomnomnom/gron"><b>gron</b></a></a> - make JSON greppable!<br>
+&nbsp;&nbsp;  <b><code>&nbsp;63959⭐</code></b> <b><code>&nbsp;&nbsp;5468🍴</code></b> <a href="https://github.com/tldr-pages/tldr"><b>tldr</b></a></a> - simplified and community-driven man pages.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4374⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;393🍴</code></b> <a href="https://github.com/mholt/archiver"><b>archiver</b></a></a> - easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;28423⭐</code></b> <b><code>&nbsp;&nbsp;1786🍴</code></b> <a href="https://github.com/tj/commander.js"><b>commander.js</b></a></a> - minimal CLI creator in JavaScript.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;14528⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;345🍴</code></b> <a href="https://github.com/tomnomnom/gron"><b>gron</b></a></a> - make JSON greppable!<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1344⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;51🍴</code></b> <a href="https://github.com/itchyny/bed"><b>bed</b></a></a> - binary editor written in Go.<br>
 </p>
 
@@ -389,7 +389,7 @@ Only main chapters:
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4670⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;607🍴</code></b> <a href="https://github.com/Guake/guake"><b>Guake</b></a></a> - is a dropdown terminal made for the GNOME desktop environment.<br>
 &nbsp;&nbsp; <a href="https://gnometerminator.blogspot.com/p/introduction.html">🌎 <b>Terminator</b></a> - is based on GNOME Terminal, useful features for sysadmins and other users.<br>
 &nbsp;&nbsp; <a href="https://sw.kovidgoyal.net/kitty/">🌎 <b>Kitty</b></a> - is a GPU based terminal emulator that supports smooth scrolling and images.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;65961⭐</code></b> <b><code>&nbsp;&nbsp;3643🍴</code></b> <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a></a> - is a fast, cross-platform, OpenGL terminal emulator.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;65976⭐</code></b> <b><code>&nbsp;&nbsp;3648🍴</code></b> <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a></a> - is a fast, cross-platform, OpenGL terminal emulator.<br>
 </p>
 
 ##### :black\_small\_square: Network
@@ -401,7 +401,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://packetsender.com/">🌎 <b>Packet Sender</b></a> - is a networking utility for packet generation and built-in UDP/TCP/SSL client and servers.<br>
 &nbsp;&nbsp; <a href="https://ostinato.org/">🌎 <b>Ostinato</b></a> - is a packet crafter and traffic generator.<br>
 &nbsp;&nbsp; <a href="https://jmeter.apache.org/">🌎 <b>JMeter™</b></a> - open source software to load test functional behavior and measure performance.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;28205⭐</code></b> <b><code>&nbsp;&nbsp;3257🍴</code></b> <a href="https://github.com/locustio/locust"><b>locust</b></a></a> - scalable user load testing tool written in Python.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;28213⭐</code></b> <b><code>&nbsp;&nbsp;3256🍴</code></b> <a href="https://github.com/locustio/locust"><b>locust</b></a></a> - scalable user load testing tool written in Python.<br>
 </p>
 
 ##### :black\_small\_square: Browsers
@@ -430,7 +430,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp; <a href="https://www.signal.org/">🌎 <b>Signal</b></a> - is an encrypted communications app.<br>
 &nbsp;&nbsp; <a href="https://wire.com/en/">🌎 <b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1000⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;276🍴</code></b> <a href="https://github.com/prof7bit/TorChat"><b>TorChat</b></a></a> - decentralized anonymous instant messenger on top of Tor Hidden Services.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1000⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;275🍴</code></b> <a href="https://github.com/prof7bit/TorChat"><b>TorChat</b></a></a> - decentralized anonymous instant messenger on top of Tor Hidden Services.<br>
 &nbsp;&nbsp; <a href="https://matrix.org/">🌎 <b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br>
 </p>
 
@@ -576,7 +576,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="http://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> - test your PHP code with this code tester.<br>
 &nbsp;&nbsp; <a href="https://www.repl.it/">🌎 <b>Repl.it</b></a> - an instant IDE to learn, build, collaborate, and host all in one place.<br>
 &nbsp;&nbsp; <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;12474⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;508🍴</code></b> <a href="https://github.com/hadolint/hadolint"><b>Haskell Dockerfile Linter</b></a></a> - a smarter Dockerfile linter that helps you build best practice Docker images.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;12481⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;510🍴</code></b> <a href="https://github.com/hadolint/hadolint"><b>Haskell Dockerfile Linter</b></a></a> - a smarter Dockerfile linter that helps you build best practice Docker images.<br>
 </p>
 
 ##### :black\_small\_square: Performance
@@ -589,7 +589,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://pingme.io/">🌎 <b>PingMe.io</b></a> - run website latency tests across multiple geographic regions.<br>
 &nbsp;&nbsp; <a href="https://developers.google.com/speed/pagespeed/insights/">🌎 <b>PageSpeed Insights</b></a> - analyze your site’s speed and make it faster.<br>
 &nbsp;&nbsp; <a href="https://web.dev/">🌎 <b>web.dev</b></a> - helps developers like you learn and apply the web's modern capabilities to your own sites and apps.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;30883⭐</code></b> <b><code>&nbsp;&nbsp;9767🍴</code></b> <a href="https://github.com/GoogleChrome/lighthouse"><b>Lighthouse</b></a></a> - automated auditing, performance metrics, and best practices for the web.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;30894⭐</code></b> <b><code>&nbsp;&nbsp;9765🍴</code></b> <a href="https://github.com/GoogleChrome/lighthouse"><b>Lighthouse</b></a></a> - automated auditing, performance metrics, and best practices for the web.<br>
 </p>
 
 ##### :black\_small\_square: Mass scanners (search engines)
@@ -735,7 +735,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://varnish-cache.org/">🌎 <b>Varnish Cache</b></a> - HTTP accelerator designed for content-heavy dynamic web sites.<br>
 &nbsp;&nbsp; <a href="https://nginx.org/">🌎 <b>Nginx</b></a> - open source web and reverse proxy server that is similar to Apache, but very light weight.<br>
 &nbsp;&nbsp; <a href="https://openresty.org/en/">🌎 <b>OpenResty</b></a> - is a dynamic web platform based on NGINX and LuaJIT.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;13390⭐</code></b> <b><code>&nbsp;&nbsp;2508🍴</code></b> <a href="https://github.com/alibaba/tengine"><b>Tengine</b></a></a> - a distribution of Nginx with some advanced features.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;13391⭐</code></b> <b><code>&nbsp;&nbsp;2508🍴</code></b> <a href="https://github.com/alibaba/tengine"><b>Tengine</b></a></a> - a distribution of Nginx with some advanced features.<br>
 &nbsp;&nbsp; <a href="https://caddyserver.com/">🌎 <b>Caddy Server</b></a> - is an open source, HTTP/2-enabled web server with HTTPS by default.<br>
 &nbsp;&nbsp; <a href="https://www.haproxy.org/">🌎 <b>HAProxy</b></a> - the reliable, high performance TCP/HTTP load balancer.<br>
 </p>
@@ -751,18 +751,18 @@ performance of any of your sites from across the globe.<br>
 ##### :black\_small\_square: Other Services
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5521⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;934🍴</code></b> <a href="https://github.com/z3APA3A/3proxy"><b>3proxy</b></a></a> - tiny free proxy server.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5527⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;934🍴</code></b> <a href="https://github.com/z3APA3A/3proxy"><b>3proxy</b></a></a> - tiny free proxy server.<br>
 </p>
 
 ##### :black\_small\_square: Security/hardening
 
 <p>
 &nbsp;&nbsp; <a href="https://twitter.com/EmeraldOnion">🌎 <b>Emerald Onion</b></a> - is a 501(c)(3) nonprofit organization and transit internet service provider (ISP).<br>
-&nbsp;&nbsp;  <b><code>&nbsp;61270⭐</code></b> <b><code>&nbsp;&nbsp;3320🍴</code></b> <a href="https://github.com/pi-hole/pi-hole"><b>pi-hole</b></a></a> - the Pi-hole® is a DNS sinkhole that protects your devices from unwanted content.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8621⭐</code></b> <b><code>&nbsp;&nbsp;1268🍴</code></b> <a href="https://github.com/stamparm/maltrail"><b>maltrail</b></a></a> - malicious traffic detection system.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4370⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;777🍴</code></b> <a href="https://github.com/Netflix/security_monkey"><b>security_monkey</b></a></a> - monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;37367⭐</code></b> <b><code>&nbsp;&nbsp;2675🍴</code></b> <a href="https://github.com/firecracker-microvm/firecracker"><b>firecracker</b></a></a> - secure and fast microVMs for serverless computing.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;23438⭐</code></b> <b><code>&nbsp;&nbsp;1938🍴</code></b> <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, and more.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;61290⭐</code></b> <b><code>&nbsp;&nbsp;3323🍴</code></b> <a href="https://github.com/pi-hole/pi-hole"><b>pi-hole</b></a></a> - the Pi-hole® is a DNS sinkhole that protects your devices from unwanted content.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8623⭐</code></b> <b><code>&nbsp;&nbsp;1268🍴</code></b> <a href="https://github.com/stamparm/maltrail"><b>maltrail</b></a></a> - malicious traffic detection system.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4371⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;776🍴</code></b> <a href="https://github.com/Netflix/security_monkey"><b>security_monkey</b></a></a> - monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;37421⭐</code></b> <b><code>&nbsp;&nbsp;2687🍴</code></b> <a href="https://github.com/firecracker-microvm/firecracker"><b>firecracker</b></a></a> - secure and fast microVMs for serverless computing.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;23436⭐</code></b> <b><code>&nbsp;&nbsp;1937🍴</code></b> <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, and more.<br>
 </p>
 
 #### Networks  [<sup>\[TOC\]</sup>](#anger-table-of-contents)
@@ -771,7 +771,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://www.capanalysis.net/ca/">🌎 <b>CapAnalysis</b></a> - web visual tool to analyze large amounts of captured network traffic (PCAP analyzer).<br>
-&nbsp;&nbsp;  <b><code>&nbsp;21690⭐</code></b> <b><code>&nbsp;&nbsp;3148🍴</code></b> <a href="https://github.com/digitalocean/netbox"><b>netbox</b></a></a> - IP address management (IPAM) and data center infrastructure management (DCIM) tool.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;21699⭐</code></b> <b><code>&nbsp;&nbsp;3148🍴</code></b> <a href="https://github.com/digitalocean/netbox"><b>netbox</b></a></a> - IP address management (IPAM) and data center infrastructure management (DCIM) tool.<br>
 </p>
 
 ##### :black\_small\_square: Labs
@@ -791,27 +791,27 @@ performance of any of your sites from across the globe.<br>
 ##### :black\_small\_square: CLI Tools
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;19673⭐</code></b> <b><code>&nbsp;&nbsp;2049🍴</code></b> <a href="https://github.com/google/gvisor"><b>gvisor</b></a></a> - container runtime sandbox.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;17843⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;590🍴</code></b> <a href="https://github.com/bcicen/ctop"><b>ctop</b></a></a> - top-like interface for container metrics.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;19690⭐</code></b> <b><code>&nbsp;&nbsp;2053🍴</code></b> <a href="https://github.com/google/gvisor"><b>gvisor</b></a></a> - container runtime sandbox.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;17845⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;590🍴</code></b> <a href="https://github.com/bcicen/ctop"><b>ctop</b></a></a> - top-like interface for container metrics.<br>
 </p>
 
 ##### :black\_small\_square: Web Tools
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;72189⭐</code></b> <b><code>&nbsp;19237🍴</code></b> <a href="https://github.com/moby/moby"><b>Moby</b></a></a> - a collaborative project for the container ecosystem to assemble container-based system.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;72190⭐</code></b> <b><code>&nbsp;19235🍴</code></b> <a href="https://github.com/moby/moby"><b>Moby</b></a></a> - a collaborative project for the container ecosystem to assemble container-based system.<br>
 &nbsp;&nbsp; <a href="https://traefik.io/">🌎 <b>Traefik</b></a> - open source reverse proxy/load balancer provides easier integration with Docker and Let's encrypt.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;44265⭐</code></b> <b><code>&nbsp;&nbsp;5236🍴</code></b> <a href="https://github.com/Kong/kong"><b>kong</b></a></a> - The Cloud-Native API Gateway.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;25979⭐</code></b> <b><code>&nbsp;&nbsp;3223🍴</code></b> <a href="https://github.com/rancher/rancher"><b>rancher</b></a></a> - complete container management platform.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;38660⭐</code></b> <b><code>&nbsp;&nbsp;2918🍴</code></b> <a href="https://github.com/portainer/portainer"><b>portainer</b></a></a> - making Docker management easy.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;19925⭐</code></b> <b><code>&nbsp;&nbsp;3040🍴</code></b> <a href="https://github.com/jwilder/nginx-proxy"><b>nginx-proxy</b></a></a> - automated nginx proxy for Docker containers using docker-gen.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;11068⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;650🍴</code></b> <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a></a> - nginx docker image "secure by default".<br>
+&nbsp;&nbsp;  <b><code>&nbsp;44273⭐</code></b> <b><code>&nbsp;&nbsp;5236🍴</code></b> <a href="https://github.com/Kong/kong"><b>kong</b></a></a> - The Cloud-Native API Gateway.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;25984⭐</code></b> <b><code>&nbsp;&nbsp;3224🍴</code></b> <a href="https://github.com/rancher/rancher"><b>rancher</b></a></a> - complete container management platform.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;38670⭐</code></b> <b><code>&nbsp;&nbsp;2919🍴</code></b> <a href="https://github.com/portainer/portainer"><b>portainer</b></a></a> - making Docker management easy.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;19928⭐</code></b> <b><code>&nbsp;&nbsp;3040🍴</code></b> <a href="https://github.com/jwilder/nginx-proxy"><b>nginx-proxy</b></a></a> - automated nginx proxy for Docker containers using docker-gen.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;11073⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;653🍴</code></b> <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a></a> - nginx docker image "secure by default".<br>
 </p>
 
 ##### :black\_small\_square: Security
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9706⭐</code></b> <b><code>&nbsp;&nbsp;1031🍴</code></b> <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a></a> - checks for dozens of common best-practices around deploying Docker.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;38412⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;764🍴</code></b> <a href="https://github.com/aquasecurity/trivy"><b>trivy</b></a></a> - vulnerability scanner for containers, suitable for CI.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9705⭐</code></b> <b><code>&nbsp;&nbsp;1031🍴</code></b> <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a></a> - checks for dozens of common best-practices around deploying Docker.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;38451⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;764🍴</code></b> <a href="https://github.com/aquasecurity/trivy"><b>trivy</b></a></a> - vulnerability scanner for containers, suitable for CI.<br>
 &nbsp;&nbsp; <a href="https://goharbor.io/">🌎 <b>Harbor</b></a> - cloud native registry project that stores, signs, and scans content.<br>
 &nbsp;&nbsp; <a href="https://houdini.secsi.io/">🌎 <b>Houdini</b></a> - hundreds of offensive and useful docker images for network intrusion.<br>
 </p>
@@ -819,13 +819,13 @@ performance of any of your sites from across the globe.<br>
 ##### :black\_small\_square: Manuals/Tutorials/Best Practices
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;22557⭐</code></b> <b><code>&nbsp;&nbsp;4602🍴</code></b> <a href="https://github.com/wsargent/docker-cheat-sheet"><b>docker-cheat-sheet</b></a></a> - a quick reference cheat sheet on Docker.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;37032⭐</code></b> <b><code>&nbsp;&nbsp;3387🍴</code></b> <a href="https://github.com/veggiemonk/awesome-docker"><b>awesome-docker</b></a></a> - a curated list of Docker resources and projects.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;26305⭐</code></b> <b><code>&nbsp;&nbsp;5779🍴</code></b> <a href="https://github.com/yeasy/docker_practice"><b>docker_practice</b></a></a> - learn and understand Docker technologies, with real DevOps practice!<br>
+&nbsp;&nbsp;  <b><code>&nbsp;22556⭐</code></b> <b><code>&nbsp;&nbsp;4600🍴</code></b> <a href="https://github.com/wsargent/docker-cheat-sheet"><b>docker-cheat-sheet</b></a></a> - a quick reference cheat sheet on Docker.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;37043⭐</code></b> <b><code>&nbsp;&nbsp;3392🍴</code></b> <a href="https://github.com/veggiemonk/awesome-docker"><b>awesome-docker</b></a></a> - a curated list of Docker resources and projects.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;26308⭐</code></b> <b><code>&nbsp;&nbsp;5777🍴</code></b> <a href="https://github.com/yeasy/docker_practice"><b>docker_practice</b></a></a> - learn and understand Docker technologies, with real DevOps practice!<br>
 &nbsp;&nbsp; <a href="https://github.com/docker/labs"><b>labs
 </b></a> - is a collection of tutorials for learning how to use Docker with various tools.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;13942⭐</code></b> <b><code>&nbsp;&nbsp;2500🍴</code></b> <a href="https://github.com/jessfraz/dockerfiles"><b>dockerfiles</b></a></a> - various Dockerfiles I use on the desktop and on servers.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;50377⭐</code></b> <b><code>&nbsp;15932🍴</code></b> <a href="https://github.com/kelseyhightower/kubernetes-the-hard-way"><b>kubernetes-the-hard-way</b></a></a> - bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;13942⭐</code></b> <b><code>&nbsp;&nbsp;2499🍴</code></b> <a href="https://github.com/jessfraz/dockerfiles"><b>dockerfiles</b></a></a> - various Dockerfiles I use on the desktop and on servers.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;50392⭐</code></b> <b><code>&nbsp;15932🍴</code></b> <a href="https://github.com/kelseyhightower/kubernetes-the-hard-way"><b>kubernetes-the-hard-way</b></a></a> - bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;142⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;17🍴</code></b> <a href="https://github.com/jamesward/kubernetes-the-easy-way"><b>kubernetes-the-easy-way</b></a></a> - bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2176⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;987🍴</code></b> <a href="https://github.com/dennyzhang/cheatsheet-kubernetes-A4"><b>cheatsheet-kubernetes-A4</b></a></a> - Kubernetes CheatSheets in A4.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;732⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;76🍴</code></b> <a href="https://github.com/kabachook/k8s-security"><b>k8s-security</b></a></a> - kubernetes security notes and best practices.<br>
@@ -839,13 +839,13 @@ performance of any of your sites from across the globe.<br>
 ##### :black\_small\_square: Shell/Command line
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;41712⭐</code></b> <b><code>&nbsp;&nbsp;3652🍴</code></b> <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a></a> - is a collection of pure bash alternatives to external processes.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7725⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;371🍴</code></b> <a href="https://github.com/dylanaraps/pure-sh-bible"><b>pure-sh-bible</b></a></a> - is a collection of pure POSIX sh alternatives to external processes.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;12394⭐</code></b> <b><code>&nbsp;&nbsp;1038🍴</code></b> <a href="https://github.com/Idnan/bash-guide"><b>bash-guide</b></a></a> - is a guide to learn bash.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;41709⭐</code></b> <b><code>&nbsp;&nbsp;3652🍴</code></b> <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a></a> - is a collection of pure bash alternatives to external processes.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7727⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;371🍴</code></b> <a href="https://github.com/dylanaraps/pure-sh-bible"><b>pure-sh-bible</b></a></a> - is a collection of pure POSIX sh alternatives to external processes.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;12395⭐</code></b> <b><code>&nbsp;&nbsp;1038🍴</code></b> <a href="https://github.com/Idnan/bash-guide"><b>bash-guide</b></a></a> - is a guide to learn bash.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6082⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;758🍴</code></b> <a href="https://github.com/denysdovhan/bash-handbook"><b>bash-handbook</b></a></a> - for those who wanna learn Bash.<br>
 &nbsp;&nbsp; <a href="https://wiki.bash-hackers.org/start">🌎 <b>The Bash Hackers Wiki</b></a> - hold documentation of any kind about GNU Bash.<br>
 &nbsp;&nbsp; <a href="http://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html"><b>Shell & Utilities</b></a> - describes the commands offered to application programs by POSIX-conformant systems.<br>
-&nbsp;&nbsp;  <b><code>162463⭐</code></b> <b><code>&nbsp;14841🍴</code></b> <a href="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a></a> - master the command line, in one page.<br>
+&nbsp;&nbsp;  <b><code>162509⭐</code></b> <b><code>&nbsp;14824🍴</code></b> <a href="https://github.com/jlevy/the-art-of-command-line"><b>the-art-of-command-line</b></a></a> - master the command line, in one page.<br>
 &nbsp;&nbsp; <a href="https://google.github.io/styleguide/shellguide.html">🌎 <b>Shell Style Guide</b></a> - a shell style guide for Google-originated open-source projects.<br>
 </p>
 
@@ -859,7 +859,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://awesome-python.com/">🌎 <b>Awesome Python</b></a> - a curated list of awesome Python frameworks, libraries, software and resources.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;38696⭐</code></b> <b><code>&nbsp;&nbsp;6681🍴</code></b> <a href="https://github.com/gto76/python-cheatsheet"><b>python-cheatsheet</b></a></a> - comprehensive Python cheatsheet.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;38704⭐</code></b> <b><code>&nbsp;&nbsp;6683🍴</code></b> <a href="https://github.com/gto76/python-cheatsheet"><b>python-cheatsheet</b></a></a> - comprehensive Python cheatsheet.<br>
 &nbsp;&nbsp; <a href="https://www.pythoncheatsheet.org/">🌎 <b>pythoncheatsheet.org</b></a> - basic reference for beginner and advanced developers.<br>
 </p>
 
@@ -875,20 +875,20 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://www.cyberciti.biz/">🌎 <b>nixCraft</b></a> - linux and unix tutorials for new and seasoned sysadmin.<br>
 &nbsp;&nbsp; <a href="https://www.tecmint.com/">🌎 <b>TecMint</b></a> - the ideal Linux blog for Sysadmins & Geeks.<br>
 &nbsp;&nbsp; <a href="http://www.omnisecu.com/index.php"><b>Omnisecu</b></a> - free Networking, System Administration and Security tutorials.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;924⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;154🍴</code></b> <a href="https://github.com/cirosantilli/linux-cheat"><b>linux-cheat</b></a></a> - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3426⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;573🍴</code></b> <a href="https://github.com/snori74/linuxupskillchallenge"><b>linuxupskillchallenge</b></a></a> - learn the skills required to sysadmin.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;923⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;154🍴</code></b> <a href="https://github.com/cirosantilli/linux-cheat"><b>linux-cheat</b></a></a> - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3427⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;573🍴</code></b> <a href="https://github.com/snori74/linuxupskillchallenge"><b>linuxupskillchallenge</b></a></a> - learn the skills required to sysadmin.<br>
 &nbsp;&nbsp; <a href="http://cb.vu/unixtoolbox.xhtml"><b>Unix Toolbox</b></a> - Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users.<br>
 &nbsp;&nbsp; <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html">🌎 <b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br>
 &nbsp;&nbsp; <a href="https://peteris.rocks/blog/htop/">🌎 <b>htop explained</b></a> - explanation of everything you can see in htop/top on Linux.<br>
 &nbsp;&nbsp; <a href="https://linuxguideandhints.com/">🌎 <b>Linux Guide and Hints</b></a> - tutorials on system administration in Fedora and CentOS.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;268⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;18🍴</code></b> <a href="https://github.com/NanXiao/strace-little-book"><b>strace-little-book</b></a></a> - a little book which introduces strace.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1321⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;292🍴</code></b> <a href="https://github.com/goldshtn/linux-tracing-workshop"><b>linux-tracing-workshop</b></a></a> - examples and hands-on labs for Linux tracing tools workshops.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2306⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;275🍴</code></b> <a href="https://github.com/bagder/http2-explained"><b>http2-explained</b></a></a> - a detailed document explaining and documenting HTTP/2.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2229⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;196🍴</code></b> <a href="https://github.com/bagder/http3-explained"><b>http3-explained</b></a></a> - a document describing the HTTP/3 and QUIC protocols.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2307⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;275🍴</code></b> <a href="https://github.com/bagder/http2-explained"><b>http2-explained</b></a></a> - a detailed document explaining and documenting HTTP/2.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2230⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;196🍴</code></b> <a href="https://github.com/bagder/http3-explained"><b>http3-explained</b></a></a> - a document describing the HTTP/3 and QUIC protocols.<br>
 &nbsp;&nbsp; <a href="https://www.manning.com/books/http2-in-action">🌎 <b>HTTP/2 in Action</b></a> - an excellent introduction to the new HTTP/2 standard.<br>
 &nbsp;&nbsp; <a href="https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/">🌎 <b>Let's code a TCP/IP stack</b></a> - great stuff to learn network and system programming at a deeper level.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;14309⭐</code></b> <b><code>&nbsp;&nbsp;1137🍴</code></b> <a href="https://github.com/trimstray/nginx-admins-handbook"><b>Nginx Admin's Handbook</b></a></a> - how to improve NGINX performance, security and other important things.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;28262⭐</code></b> <b><code>&nbsp;&nbsp;2027🍴</code></b> <a href="https://github.com/digitalocean/nginxconfig.io"><b>nginxconfig.io</b></a></a> - NGINX config generator on steroids.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;14308⭐</code></b> <b><code>&nbsp;&nbsp;1137🍴</code></b> <a href="https://github.com/trimstray/nginx-admins-handbook"><b>Nginx Admin's Handbook</b></a></a> - how to improve NGINX performance, security and other important things.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;28258⭐</code></b> <b><code>&nbsp;&nbsp;2027🍴</code></b> <a href="https://github.com/digitalocean/nginxconfig.io"><b>nginxconfig.io</b></a></a> - NGINX config generator on steroids.<br>
 &nbsp;&nbsp; <a href="https://infosec.mozilla.org/guidelines/openssh">🌎 <b>openssh guideline</b></a> - is to help operational teams with the configuration of OpenSSH server and client.<br>
 &nbsp;&nbsp; <a href="https://gravitational.com/blog/ssh-handshake-explained/">🌎 <b>SSH Handshake Explained</b></a> - is a relatively brief description of the SSH handshake.<br>
 &nbsp;&nbsp; <a href="https://kb.isc.org/docs/using-this-knowledgebase">🌎 <b>ISC's Knowledgebase</b></a> - you'll find some general information about BIND 9, ISC DHCP, and Kea DHCP.<br>
@@ -898,14 +898,14 @@ performance of any of your sites from across the globe.<br>
 ##### :black\_small\_square: Microsoft
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4871⭐</code></b> <b><code>&nbsp;&nbsp;1082🍴</code></b> <a href="https://github.com/infosecn1nja/AD-Attack-Defense"><b>AD-Attack-Defense</b></a></a> - attack and defend active directory using modern post exploitation activity.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4872⭐</code></b> <b><code>&nbsp;&nbsp;1082🍴</code></b> <a href="https://github.com/infosecn1nja/AD-Attack-Defense"><b>AD-Attack-Defense</b></a></a> - attack and defend active directory using modern post exploitation activity.<br>
 </p>
 
 ##### :black\_small\_square: Large-scale systems
 
 <p>
-&nbsp;&nbsp;  <b><code>374199⭐</code></b> <b><code>&nbsp;58857🍴</code></b> <a href="https://github.com/donnemartin/system-design-primer"><b>The System Design Primer</b></a></a> - learn how to design large-scale systems.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;74715⭐</code></b> <b><code>&nbsp;&nbsp;7170🍴</code></b> <a href="https://github.com/binhnguyennus/awesome-scalability"><b>Awesome Scalability</b></a></a> - best practices in building High Scalability, High Availability, High Stability, and more.<br>
+&nbsp;&nbsp;  <b><code>374387⭐</code></b> <b><code>&nbsp;58875🍴</code></b> <a href="https://github.com/donnemartin/system-design-primer"><b>The System Design Primer</b></a></a> - learn how to design large-scale systems.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;74756⭐</code></b> <b><code>&nbsp;&nbsp;7175🍴</code></b> <a href="https://github.com/binhnguyennus/awesome-scalability"><b>Awesome Scalability</b></a></a> - best practices in building High Scalability, High Availability, High Stability, and more.<br>
 &nbsp;&nbsp; <a href="https://engineering.videoblocks.com/web-architecture-101-a3224e126947?gi=a896808d22a">🌎 <b>Web Architecture 101</b></a> - the basic architecture concepts.<br>
 </p>
 
@@ -915,8 +915,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://www.cisecurity.org/cis-benchmarks/">🌎 <b>CIS Benchmarks</b></a> - secure configuration settings for over 100 technologies, available as a free PDF.<br>
 &nbsp;&nbsp; <a href="https://highon.coffee/blog/security-harden-centos-7/">🌎 <b>Security Harden CentOS 7</b></a> - this walks you through the steps required to security harden CentOS.<br>
 &nbsp;&nbsp; <a href="https://www.lisenet.com/2017/centos-7-server-hardening-guide/">🌎 <b>CentOS 7 Server Hardening Guide</b></a> - great guide for hardening CentOS; familiar with OpenSCAP.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6579⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;690🍴</code></b> <a href="https://github.com/decalage2/awesome-security-hardening"><b>awesome-security-hardening</b></a></a> - is a collection of security hardening guides, tools and other resources.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;10867⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;698🍴</code></b> <a href="https://github.com/trimstray/the-practical-linux-hardening-guide"><b>The Practical Linux Hardening Guide</b></a></a> - provides a high-level overview of hardening GNU/Linux systems.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6581⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;690🍴</code></b> <a href="https://github.com/decalage2/awesome-security-hardening"><b>awesome-security-hardening</b></a></a> - is a collection of security hardening guides, tools and other resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10869⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;698🍴</code></b> <a href="https://github.com/trimstray/the-practical-linux-hardening-guide"><b>The Practical Linux Hardening Guide</b></a></a> - provides a high-level overview of hardening GNU/Linux systems.<br>
 &nbsp;&nbsp; <a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html">🌎 <b>Linux Hardening Guide</b></a> - how to harden Linux as much as possible for security and privacy.<br>
 </p>
 
@@ -924,7 +924,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://www.hackingarticles.in/">🌎 <b>Hacking Articles</b></a> - LRaj Chandel's Security & Hacking Blog.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9516⭐</code></b> <b><code>&nbsp;&nbsp;1581🍴</code></b> <a href="https://github.com/toniblyx/my-arsenal-of-aws-security-tools"><b>AWS security tools</b></a></a> - make your AWS cloud environment more secure.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9517⭐</code></b> <b><code>&nbsp;&nbsp;1581🍴</code></b> <a href="https://github.com/toniblyx/my-arsenal-of-aws-security-tools"><b>AWS security tools</b></a></a> - make your AWS cloud environment more secure.<br>
 &nbsp;&nbsp; <a href="https://inventory.rawsec.ml/index.html">🌎 <b>Rawsec's CyberSecurity Inventory</b></a> - an inventory of tools and resources about CyberSecurity.<br>
 &nbsp;&nbsp; <a href="https://tls.ulfheim.net/">🌎 <b>The Illustrated TLS Connection</b></a> - every byte of a TLS connection explained and reproduced.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices"><b>SSL Research</b></a></a> - SSL and TLS Deployment Best Practices by SSL Labs.<br>
@@ -940,30 +940,30 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/Main_Page">🌎 <b>OWASP</b></a> - worldwide not-for-profit charitable organization focused on improving the security of software.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project">🌎 <b>OWASP ASVS 3.0.1</b></a> - OWASP Application Security Verification Standard Project.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;170⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;47🍴</code></b> <a href="https://github.com/Santandersecurityresearch/asvs"><b>OWASP ASVS 3.0.1 Web App</b></a></a> - simple web app that helps developers understand the ASVS requirements.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3680⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;837🍴</code></b> <a href="https://github.com/OWASP/ASVS/tree/master/4.0"><b>OWASP ASVS 4.0</b></a></a> - is a list of application security requirements or tests.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3685⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;837🍴</code></b> <a href="https://github.com/OWASP/ASVS/tree/master/4.0"><b>OWASP ASVS 4.0</b></a></a> - is a list of application security requirements or tests.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Testing_Project">🌎 <b>OWASP Testing Guide v4</b></a> - includes a "best practice" penetration testing framework.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2184⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;408🍴</code></b> <a href="https://github.com/OWASP/DevGuide"><b>OWASP Dev Guide</b></a></a> - this is the development version of the OWASP Developer Guide.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;10023⭐</code></b> <b><code>&nbsp;&nbsp;1709🍴</code></b> <a href="https://github.com/OWASP/wstg"><b>OWASP WSTG</b></a></a> - is a comprehensive open source guide to testing the security of web apps.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10039⭐</code></b> <b><code>&nbsp;&nbsp;1713🍴</code></b> <a href="https://github.com/OWASP/wstg"><b>OWASP WSTG</b></a></a> - is a comprehensive open source guide to testing the security of web apps.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_API_Security_Project">🌎 <b>OWASP API Security Project</b></a> - focuses specifically on the top ten vulnerabilities in API security.<br>
 &nbsp;&nbsp; <a href="https://infosec.mozilla.org/guidelines/web_security.html">🌎 <b>Mozilla Web Security</b></a> - help operational teams with creating secure web applications.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;745⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;114🍴</code></b> <a href="https://github.com/Netflix/security-bulletins"><b>security-bulletins</b></a></a> - security bulletins that relate to Netflix Open Source.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;23335⭐</code></b> <b><code>&nbsp;&nbsp;2649🍴</code></b> <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a></a> - security countermeasures when designing, testing, and releasing your API.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;745⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;115🍴</code></b> <a href="https://github.com/Netflix/security-bulletins"><b>security-bulletins</b></a></a> - security bulletins that relate to Netflix Open Source.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;23333⭐</code></b> <b><code>&nbsp;&nbsp;2649🍴</code></b> <a href="https://github.com/shieldfy/API-Security-Checklist"><b>API-Security-Checklist</b></a></a> - security countermeasures when designing, testing, and releasing your API.<br>
 &nbsp;&nbsp; <a href="https://enable-cors.org/index.html">🌎 <b>Enable CORS</b></a> - enable cross-origin resource sharing.<br>
 &nbsp;&nbsp; <a href="https://appsecwiki.com/#/">🌎 <b>Application Security Wiki</b></a> - is an initiative to provide all application security related resources at one place.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/GrrrDog/weird_proxies/wiki"><b>Weird Proxies</b></a></a> - reverse proxy related attacks; it is a result of analysis of various proxies.<br>
 &nbsp;&nbsp; <a href="https://dfir.it/blog/2015/08/12/webshell-every-time-the-same-purpose/">🌎 <b>Webshells</b></a> - great series about malicious payloads.<br>
 &nbsp;&nbsp; <a href="https://portswigger.net/blog/practical-web-cache-poisoning">🌎 <b>Practical Web Cache Poisoning</b></a> - show you how to compromise websites by using esoteric web features.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;212⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;46🍴</code></b> <a href="https://github.com/bl4de/research/tree/master/hidden_directories_leaks"><b>Hidden directories and files</b></a></a> - as a source of sensitive information about web application.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;211⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;45🍴</code></b> <a href="https://github.com/bl4de/research/tree/master/hidden_directories_leaks"><b>Hidden directories and files</b></a></a> - as a source of sensitive information about web application.<br>
 &nbsp;&nbsp; <a href="https://bo0om.ru/en/">🌎 <b>Explosive blog</b></a> - great blog about cybersec and pentests.<br>
 &nbsp;&nbsp; <a href="https://www.netsparker.com/security-cookies-whitepaper/">🌎 <b>Security Cookies</b></a> - this paper will take a close look at cookie security.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1984⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;101🍴</code></b> <a href="https://github.com/GitGuardian/APISecurityBestPractices"><b>APISecurityBestPractices</b></a></a> - help you keep secrets (API keys, db credentials, certificates) out of source code.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1984⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;102🍴</code></b> <a href="https://github.com/GitGuardian/APISecurityBestPractices"><b>APISecurityBestPractices</b></a></a> - help you keep secrets (API keys, db credentials, certificates) out of source code.<br>
 </p>
 
 ##### :black\_small\_square: All-in-one
 
 <p>
 &nbsp;&nbsp; <a href="https://lzone.de/cheat-sheet/">🌎 <b>LZone Cheat Sheets</b></a> - all cheat sheets.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;14457⭐</code></b> <b><code>&nbsp;&nbsp;3576🍴</code></b> <a href="https://github.com/rstacruz/cheatsheets"><b>Dan’s Cheat Sheets’s</b></a></a> - massive cheat sheets documentation.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;14458⭐</code></b> <b><code>&nbsp;&nbsp;3576🍴</code></b> <a href="https://github.com/rstacruz/cheatsheets"><b>Dan’s Cheat Sheets’s</b></a></a> - massive cheat sheets documentation.<br>
 &nbsp;&nbsp; <a href="https://devhints.io/">🌎 <b>Rico's cheatsheets</b></a> - this is a modest collection of cheatsheets.<br>
 &nbsp;&nbsp; <a href="https://devdocs.io/">🌎 <b>DevDocs API</b></a> - combines multiple API documentations in a fast, organized, and searchable interface.<br>
 &nbsp;&nbsp; <a href="https://cheat.sh/">🌎 <b>cheat.sh</b></a> - the only cheat sheet you need.<br>
@@ -974,7 +974,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black\_small\_square: Ebooks
 
 <p>
-&nbsp;&nbsp;  <b><code>399032⭐</code></b> <b><code>&nbsp;66941🍴</code></b> <a href="https://github.com/EbookFoundation/free-programming-books"><b>free-programming-books</b></a></a> - list of free learning resources in many languages.<br>
+&nbsp;&nbsp;  <b><code>399164⭐</code></b> <b><code>&nbsp;66924🍴</code></b> <a href="https://github.com/EbookFoundation/free-programming-books"><b>free-programming-books</b></a></a> - list of free learning resources in many languages.<br>
 </p>
 
 ##### :black\_small\_square: Other
@@ -989,13 +989,13 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="http://poormansprofiler.org/"><b>poor man's profiler</b></a> - like dtrace's don't really provide methods to see what programs are blocking on.<br>
 &nbsp;&nbsp; <a href="https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/">🌎 <b>HTTPS on Stack Overflow</b></a> - this is the story of a long journey regarding the implementation of SSL.<br>
 &nbsp;&nbsp; <a href="https://drawings.jvns.ca/">🌎 <b>Julia's Drawings</b></a> - some drawings about programming and unix world, zines about systems & debugging tools.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3411⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;208🍴</code></b> <a href="https://github.com/corkami/collisions"><b>Hash collisions</b></a></a> - this great repository is focused on hash collisions exploitation.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3412⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;208🍴</code></b> <a href="https://github.com/corkami/collisions"><b>Hash collisions</b></a></a> - this great repository is focused on hash collisions exploitation.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3397⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;167🍴</code></b> <a href="https://github.com/in3rsha/sha256-animation"><b>sha256-animation</b></a></a> - animation of the SHA-256 hash function in your terminal.<br>
 &nbsp;&nbsp; <a href="https://sha256algorithm.com/">🌎 <b>sha256algorithm</b></a> - sha256 algorithm explained online step by step visually.<br>
 &nbsp;&nbsp; <a href="https://labs.ripe.net/Members/cteusche/bgp-meets-cat">🌎 <b>BGP Meets Cat</b></a> - after 3072 hours of manipulating BGP, Job Snijders has succeeded in drawing a Nyancat.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;449⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;17🍴</code></b> <a href="https://github.com/benjojo/bgp-battleships"><b>bgp-battleships</b></a></a> - playing battleships over BGP.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;43369⭐</code></b> <b><code>&nbsp;&nbsp;5740🍴</code></b> <a href="https://github.com/alex/what-happens-when"><b>What happens when...</b></a></a> - you type google.com into your browser and press enter?<br>
-&nbsp;&nbsp;  <b><code>&nbsp;16766⭐</code></b> <b><code>&nbsp;&nbsp;1740🍴</code></b> <a href="https://github.com/vasanthk/how-web-works"><b>how-web-works</b></a></a> - based on the 'What happens when...' repository.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;43371⭐</code></b> <b><code>&nbsp;&nbsp;5738🍴</code></b> <a href="https://github.com/alex/what-happens-when"><b>What happens when...</b></a></a> - you type google.com into your browser and press enter?<br>
+&nbsp;&nbsp;  <b><code>&nbsp;16761⭐</code></b> <b><code>&nbsp;&nbsp;1740🍴</code></b> <a href="https://github.com/vasanthk/how-web-works"><b>how-web-works</b></a></a> - based on the 'What happens when...' repository.<br>
 &nbsp;&nbsp; <a href="https://robertheaton.com/2018/11/28/https-in-the-real-world/">🌎 <b>HTTPS in the real world</b></a> - great tutorial explain how HTTPS works in the real world.<br>
 &nbsp;&nbsp; <a href="https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/">🌎 <b>Gitlab and NFS bug</b></a> - how we spent two weeks hunting an NFS bug in the Linux kernel.<br>
 &nbsp;&nbsp; <a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/">🌎 <b>Gitlab melts down</b></a> - postmortem on the database outage of January 31 2017 with the lessons we learned.<br>
@@ -1021,77 +1021,77 @@ performance of any of your sites from across the globe.<br>
 ##### :black\_small\_square: SysOps/DevOps
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;24352⭐</code></b> <b><code>&nbsp;&nbsp;2884🍴</code></b> <a href="https://github.com/kahun/awesome-sysadmin"><b>Awesome Sysadmin</b></a></a> - amazingly awesome open source sysadmin resources.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;37783⭐</code></b> <b><code>&nbsp;&nbsp;2566🍴</code></b> <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;24353⭐</code></b> <b><code>&nbsp;&nbsp;2883🍴</code></b> <a href="https://github.com/kahun/awesome-sysadmin"><b>Awesome Sysadmin</b></a></a> - amazingly awesome open source sysadmin resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;37788⭐</code></b> <b><code>&nbsp;&nbsp;2566🍴</code></b> <a href="https://github.com/alebcay/awesome-shell"><b>Awesome Shell</b></a></a> - awesome command-line frameworks, toolkits, guides and gizmos.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;10182⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;696🍴</code></b> <a href="https://github.com/learnbyexample/Command-line-text-processing"><b>Command-line-text-processing</b></a></a> - finding text to search and replace, sorting to beautifying, and more.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3433⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;478🍴</code></b> <a href="https://github.com/caesar0301/awesome-pcaptools"><b>Awesome Pcaptools</b></a></a> - collection of tools developed by other researchers to process network traces.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5182⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;446🍴</code></b> <a href="https://github.com/zoidbergwill/awesome-ebpf"><b>awesome-ebpf</b></a></a> - a curated list of awesome projects related to eBPF.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5830⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;530🍴</code></b> <a href="https://github.com/leandromoreira/linux-network-performance-parameters"><b>Linux Network Performance</b></a></a> - where some of the network sysctl variables fit into the Linux/Kernel network flow.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;12113⭐</code></b> <b><code>&nbsp;&nbsp;1047🍴</code></b> <a href="https://github.com/dhamaniasad/awesome-postgres"><b>Awesome Postgres</b></a></a> - list of awesome PostgreSQL software, libraries, tools and resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5182⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;448🍴</code></b> <a href="https://github.com/zoidbergwill/awesome-ebpf"><b>awesome-ebpf</b></a></a> - a curated list of awesome projects related to eBPF.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5832⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;530🍴</code></b> <a href="https://github.com/leandromoreira/linux-network-performance-parameters"><b>Linux Network Performance</b></a></a> - where some of the network sysctl variables fit into the Linux/Kernel network flow.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;12115⭐</code></b> <b><code>&nbsp;&nbsp;1047🍴</code></b> <a href="https://github.com/dhamaniasad/awesome-postgres"><b>Awesome Postgres</b></a></a> - list of awesome PostgreSQL software, libraries, tools and resources.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5473⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;780🍴</code></b> <a href="https://github.com/enochtangg/quick-SQL-cheatsheet"><b>quick-SQL-cheatsheet</b></a></a> - a quick reminder of all SQL queries and examples on how to use them.<br>
-&nbsp;&nbsp;  <b><code>326486⭐</code></b> <b><code>&nbsp;15309🍴</code></b> <a href="https://github.com/Kickball/awesome-selfhosted"><b>Awesome-Selfhosted</b></a></a> - list of Free Software network services and web applications which can be hosted locally.<br>
+&nbsp;&nbsp;  <b><code>327080⭐</code></b> <b><code>&nbsp;15344🍴</code></b> <a href="https://github.com/Kickball/awesome-selfhosted"><b>Awesome-Selfhosted</b></a></a> - list of Free Software network services and web applications which can be hosted locally.<br>
 &nbsp;&nbsp; <a href="https://wiki.archlinux.org/index.php/List_of_applications">🌎 <b>List of applications</b></a> - huge list of apps sorted by category, as a reference for those looking for packages.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;18225⭐</code></b> <b><code>&nbsp;&nbsp;2524🍴</code></b> <a href="https://github.com/InterviewMap/CS-Interview-Knowledge-Map"><b>CS-Interview-Knowledge-Map</b></a></a> - build the best interview map.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9363⭐</code></b> <b><code>&nbsp;&nbsp;2091🍴</code></b> <a href="https://github.com/Tikam02/DevOps-Guide"><b>DevOps-Guide</b></a></a> - DevOps Guide from basic to advanced with Interview Questions and Notes.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;18224⭐</code></b> <b><code>&nbsp;&nbsp;2524🍴</code></b> <a href="https://github.com/InterviewMap/CS-Interview-Knowledge-Map"><b>CS-Interview-Knowledge-Map</b></a></a> - build the best interview map.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9364⭐</code></b> <b><code>&nbsp;&nbsp;2092🍴</code></b> <a href="https://github.com/Tikam02/DevOps-Guide"><b>DevOps-Guide</b></a></a> - DevOps Guide from basic to advanced with Interview Questions and Notes.<br>
 &nbsp;&nbsp; <a href="https://issue.freebsdfoundation.org/publication/?m=33057&l=1&view=issuelistBrowser">🌎 <b>FreeBSD Journal</b></a> - it is a great list of periodical magazines about FreeBSD and other important things.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;84857⭐</code></b> <b><code>&nbsp;20384🍴</code></b> <a href="https://github.com/bregman-arie/devops-interview-questions"><b>devops-interview-questions</b></a></a> - contains interview questions on various DevOps and SRE related topics.<br></p>
+&nbsp;&nbsp;  <b><code>&nbsp;84878⭐</code></b> <b><code>&nbsp;20392🍴</code></b> <a href="https://github.com/bregman-arie/devops-interview-questions"><b>devops-interview-questions</b></a></a> - contains interview questions on various DevOps and SRE related topics.<br></p>
 
 ##### :black\_small\_square: Developers
 
 <p>
-&nbsp;&nbsp;  <b><code>369365⭐</code></b> <b><code>&nbsp;45108🍴</code></b> <a href="https://github.com/kamranahmedse/developer-roadmap"><b>Web Developer Roadmap</b></a></a> - roadmaps, articles and resources to help you choose your path, learn and improve.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;74460⭐</code></b> <b><code>&nbsp;&nbsp;6759🍴</code></b> <a href="https://github.com/thedaviddias/Front-End-Checklist"><b>Front-End-Checklist</b></a></a> - the perfect Front-End Checklist for modern websites and meticulous developers.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;17373⭐</code></b> <b><code>&nbsp;&nbsp;1256🍴</code></b> <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><b>Front-End-Performance-Checklist</b></a></a> - Front-End Performance Checklist that runs faster than the others.<br>
+&nbsp;&nbsp;  <b><code>369507⭐</code></b> <b><code>&nbsp;45084🍴</code></b> <a href="https://github.com/kamranahmedse/developer-roadmap"><b>Web Developer Roadmap</b></a></a> - roadmaps, articles and resources to help you choose your path, learn and improve.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;74477⭐</code></b> <b><code>&nbsp;&nbsp;6760🍴</code></b> <a href="https://github.com/thedaviddias/Front-End-Checklist"><b>Front-End-Checklist</b></a></a> - the perfect Front-End Checklist for modern websites and meticulous developers.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;17374⭐</code></b> <b><code>&nbsp;&nbsp;1256🍴</code></b> <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><b>Front-End-Performance-Checklist</b></a></a> - Front-End Performance Checklist that runs faster than the others.<br>
 &nbsp;&nbsp; <a href="https://rszalski.github.io/magicmethods/">🌎 <b>Python's Magic Methods</b></a> - what are magic methods? They're everything in object-oriented Python.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;37123⭐</code></b> <b><code>&nbsp;&nbsp;2651🍴</code></b> <a href="https://github.com/satwikkansal/wtfpython"><b>wtfpython</b></a></a> - a collection of surprising Python snippets and lesser-known features.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;37123⭐</code></b> <b><code>&nbsp;&nbsp;2652🍴</code></b> <a href="https://github.com/satwikkansal/wtfpython"><b>wtfpython</b></a></a> - a collection of surprising Python snippets and lesser-known features.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/twhite96/js-dev-reads"><b>js-dev-reads</b></a></a> - a list of books and articles for the discerning web developer to read.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6764⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;339🍴</code></b> <a href="https://github.com/RomuloOliveira/commit-messages-guide"><b>Commit messages guide</b></a></a> - a guide to understand the importance of commit messages.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6766⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;340🍴</code></b> <a href="https://github.com/RomuloOliveira/commit-messages-guide"><b>Commit messages guide</b></a></a> - a guide to understand the importance of commit messages.<br>
 </p>
 
 ##### :black\_small\_square: Security/Pentesting
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;13899⭐</code></b> <b><code>&nbsp;&nbsp;1838🍴</code></b> <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a></a> - a curated list of Web Security materials and resources.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4733⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;543🍴</code></b> <a href="https://github.com/joe-shenouda/awesome-cyber-skills"><b>awesome-cyber-skills</b></a></a> - a curated list of hacking environments where you can train your cyber skills.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5491⭐</code></b> <b><code>&nbsp;&nbsp;1232🍴</code></b> <a href="https://github.com/devsecops/awesome-devsecops"><b>awesome-devsecops</b></a></a> - an authoritative list of awesome devsecops tools.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;30225⭐</code></b> <b><code>&nbsp;&nbsp;4157🍴</code></b> <a href="https://github.com/jivoi/awesome-osint"><b>awesome-osint</b></a></a> - is a curated list of amazingly awesome OSINT.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;13904⭐</code></b> <b><code>&nbsp;&nbsp;1848🍴</code></b> <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a></a> - a curated list of Web Security materials and resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4737⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;544🍴</code></b> <a href="https://github.com/joe-shenouda/awesome-cyber-skills"><b>awesome-cyber-skills</b></a></a> - a curated list of hacking environments where you can train your cyber skills.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5493⭐</code></b> <b><code>&nbsp;&nbsp;1233🍴</code></b> <a href="https://github.com/devsecops/awesome-devsecops"><b>awesome-devsecops</b></a></a> - an authoritative list of awesome devsecops tools.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;30270⭐</code></b> <b><code>&nbsp;&nbsp;4172🍴</code></b> <a href="https://github.com/jivoi/awesome-osint"><b>awesome-osint</b></a></a> - is a curated list of amazingly awesome OSINT.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2023⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;337🍴</code></b> <a href="https://github.com/HolyBugx/HolyTips"><b>HolyTips</b></a></a> - tips and tutorials on Bug Bounty Hunting and Web App Security.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;10731⭐</code></b> <b><code>&nbsp;&nbsp;1845🍴</code></b> <a href="https://github.com/hslatman/awesome-threat-intelligence"><b>awesome-threat-intelligence</b></a></a> - a curated list of Awesome Threat Intelligence resources.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;10783⭐</code></b> <b><code>&nbsp;&nbsp;2377🍴</code></b> <a href="https://github.com/infosecn1nja/Red-Teaming-Toolkit"><b>Red-Teaming-Toolkit</b></a></a> - a collection of open source and commercial tools that aid in red team operations.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3446⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;630🍴</code></b> <a href="https://github.com/snoopysecurity/awesome-burp-extensions"><b>awesome-burp-extensions</b></a></a> - a curated list of amazingly awesome Burp Extensions.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5002⭐</code></b> <b><code>&nbsp;&nbsp;1091🍴</code></b> <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a></a> - list of a Free Security and Hacking eBooks.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6515⭐</code></b> <b><code>&nbsp;&nbsp;1215🍴</code></b> <a href="https://github.com/yeahhub/Hacking-Security-Ebooks"><b>Hacking-Security-Ebooks</b></a></a> - top 100 Hacking & Security E-Books.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2061⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;108🍴</code></b> <a href="https://github.com/nikitavoloboev/privacy-respecting"><b>privacy-respecting</b></a></a> - curated list of privacy respecting services and software.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;10565⭐</code></b> <b><code>&nbsp;&nbsp;1209🍴</code></b> <a href="https://github.com/wtsxDev/reverse-engineering"><b>reverse-engineering</b></a></a> - list of awesome reverse engineering resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10734⭐</code></b> <b><code>&nbsp;&nbsp;1849🍴</code></b> <a href="https://github.com/hslatman/awesome-threat-intelligence"><b>awesome-threat-intelligence</b></a></a> - a curated list of Awesome Threat Intelligence resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10782⭐</code></b> <b><code>&nbsp;&nbsp;2378🍴</code></b> <a href="https://github.com/infosecn1nja/Red-Teaming-Toolkit"><b>Red-Teaming-Toolkit</b></a></a> - a collection of open source and commercial tools that aid in red team operations.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3447⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;630🍴</code></b> <a href="https://github.com/snoopysecurity/awesome-burp-extensions"><b>awesome-burp-extensions</b></a></a> - a curated list of amazingly awesome Burp Extensions.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5003⭐</code></b> <b><code>&nbsp;&nbsp;1091🍴</code></b> <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a></a> - list of a Free Security and Hacking eBooks.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6516⭐</code></b> <b><code>&nbsp;&nbsp;1215🍴</code></b> <a href="https://github.com/yeahhub/Hacking-Security-Ebooks"><b>Hacking-Security-Ebooks</b></a></a> - top 100 Hacking & Security E-Books.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2062⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;108🍴</code></b> <a href="https://github.com/nikitavoloboev/privacy-respecting"><b>privacy-respecting</b></a></a> - curated list of privacy respecting services and software.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;10582⭐</code></b> <b><code>&nbsp;&nbsp;1211🍴</code></b> <a href="https://github.com/wtsxDev/reverse-engineering"><b>reverse-engineering</b></a></a> - list of awesome reverse engineering resources.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2083⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;365🍴</code></b> <a href="https://github.com/michalmalik/linux-re-101"><b>linux-re-101</b></a></a> - a collection of resources for linux reverse engineering.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2747⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;348🍴</code></b> <a href="https://github.com/onethawt/reverseengineering-reading-list"><b>reverseengineering-reading-list</b></a></a> - a list of Reverse Engineering articles, books, and papers.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7643⭐</code></b> <b><code>&nbsp;&nbsp;1172🍴</code></b> <a href="https://github.com/0xInfection/Awesome-WAF"><b>Awesome-WAF</b></a></a> - a curated list of awesome web-app firewall (WAF) stuff.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7793⭐</code></b> <b><code>&nbsp;&nbsp;1036🍴</code></b> <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>awesome-shodan-queries</b></a></a> - interesting, funny, and depressing search queries to plug into shodan.io.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2750⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;348🍴</code></b> <a href="https://github.com/onethawt/reverseengineering-reading-list"><b>reverseengineering-reading-list</b></a></a> - a list of Reverse Engineering articles, books, and papers.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7649⭐</code></b> <b><code>&nbsp;&nbsp;1174🍴</code></b> <a href="https://github.com/0xInfection/Awesome-WAF"><b>Awesome-WAF</b></a></a> - a curated list of awesome web-app firewall (WAF) stuff.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7800⭐</code></b> <b><code>&nbsp;&nbsp;1037🍴</code></b> <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>awesome-shodan-queries</b></a></a> - interesting, funny, and depressing search queries to plug into shodan.io.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1495⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;305🍴</code></b> <a href="https://github.com/danielmiessler/RobotsDisallowed"><b>RobotsDisallowed</b></a></a> - a curated list of the most common and most interesting robots.txt disallowed directories.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2640⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;305🍴</code></b> <a href="https://github.com/Kayzaks/HackingNeuralNetworks"><b>HackingNeuralNetworks</b></a></a> - is a small course on exploiting and defending neural networks.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2641⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;306🍴</code></b> <a href="https://github.com/Kayzaks/HackingNeuralNetworks"><b>HackingNeuralNetworks</b></a></a> - is a small course on exploiting and defending neural networks.<br>
 &nbsp;&nbsp; <a href="https://gist.github.com/joepie91/7e5cad8c0726fd6a5e90360a754fc568">🌎 <b>wildcard-certificates</b></a> - why you probably shouldn't use a wildcard certificate.<br>
 &nbsp;&nbsp; <a href="https://gist.github.com/joepie91/5a9909939e6ce7d09e29">🌎 <b>Don't use VPN services</b></a> -  which is what every third-party "VPN provider" does.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4295⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;554🍴</code></b> <a href="https://github.com/InQuest/awesome-yara"><b>awesome-yara</b></a></a> - a curated list of awesome YARA rules, tools, and people.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;22550⭐</code></b> <b><code>&nbsp;&nbsp;1468🍴</code></b> <a href="https://github.com/drduh/macOS-Security-and-Privacy-Guide"><b>macOS-Security-and-Privacy-Guide</b></a></a> - guide to securing and improving privacy on macOS.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2507⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;302🍴</code></b> <a href="https://github.com/usnistgov/macos_security"><b>macos_security</b></a></a> - macOS Security Compliance Project.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;22551⭐</code></b> <b><code>&nbsp;&nbsp;1468🍴</code></b> <a href="https://github.com/drduh/macOS-Security-and-Privacy-Guide"><b>macOS-Security-and-Privacy-Guide</b></a></a> - guide to securing and improving privacy on macOS.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2508⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;302🍴</code></b> <a href="https://github.com/usnistgov/macos_security"><b>macos_security</b></a></a> - macOS Security Compliance Project.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4242⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;491🍴</code></b> <a href="https://github.com/PaulSec/awesome-sec-talks"><b>awesome-sec-talks</b></a></a> - is a collected list of awesome security talks.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;11945⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;929🍴</code></b> <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a></a> - list of movies every hacker & cyberpunk must watch.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;11946⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;930🍴</code></b> <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a></a> - list of movies every hacker & cyberpunk must watch.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;50⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;13🍴</code></b> <a href="https://github.com/danieldizzy/Cryptography_1"><b>Cryptography_1</b></a></a> - materials used whilst taking Prof. Dan Boneh Stanford Crypto course.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1628⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;269🍴</code></b> <a href="https://github.com/ashutosh1206/Crypton"><b>Crypton</b></a></a> - library to learn and practice Offensive and Defensive Cryptography.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1630⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;269🍴</code></b> <a href="https://github.com/ashutosh1206/Crypton"><b>Crypton</b></a></a> - library to learn and practice Offensive and Defensive Cryptography.<br>
 </p>
 
 ##### :black\_small\_square: Other
 
 <p>
 &nbsp;&nbsp; <a href="https://www.cheatography.com/">🌎 <b>Cheatography</b></a> - over 3,000 free cheat sheets, revision aids and quick references.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;14835⭐</code></b> <b><code>&nbsp;&nbsp;1518🍴</code></b> <a href="https://github.com/mre/awesome-static-analysis"><b>awesome-static-analysis</b></a></a> - static analysis tools for all programming languages.<br>
-&nbsp;&nbsp;  <b><code>209984⭐</code></b> <b><code>&nbsp;26026🍴</code></b> <a href="https://github.com/ossu/computer-science"><b>computer-science</b></a></a> - path to a free self-taught education in Computer Science.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;12539⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;530🍴</code></b> <a href="https://github.com/danluu/post-mortems"><b>post-mortems</b></a></a> - is a collection of postmortems (config errors, hardware failures, and more).<br>
-&nbsp;&nbsp;  <b><code>553179⭐</code></b> <b><code>&nbsp;51875🍴</code></b> <a href="https://github.com/danistefanovic/build-your-own-x"><b>build-your-own-x</b></a></a> - build your own (insert technology here).<br>
+&nbsp;&nbsp;  <b><code>&nbsp;14836⭐</code></b> <b><code>&nbsp;&nbsp;1521🍴</code></b> <a href="https://github.com/mre/awesome-static-analysis"><b>awesome-static-analysis</b></a></a> - static analysis tools for all programming languages.<br>
+&nbsp;&nbsp;  <b><code>210035⭐</code></b> <b><code>&nbsp;26004🍴</code></b> <a href="https://github.com/ossu/computer-science"><b>computer-science</b></a></a> - path to a free self-taught education in Computer Science.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;12564⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;534🍴</code></b> <a href="https://github.com/danluu/post-mortems"><b>post-mortems</b></a></a> - is a collection of postmortems (config errors, hardware failures, and more).<br>
+&nbsp;&nbsp;  <b><code>553577⭐</code></b> <b><code>&nbsp;51905🍴</code></b> <a href="https://github.com/danistefanovic/build-your-own-x"><b>build-your-own-x</b></a></a> - build your own (insert technology here).<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/rby90/Project-Based-Tutorials-in-C"><b>Project-Based-Tutorials-in-C</b></a></a> - is a curated list of project-based tutorials in C.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6054⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;739🍴</code></b> <a href="https://github.com/kylelobo/The-Documentation-Compendium"><b>The-Documentation-Compendium</b></a></a> - various README templates & tips on writing high-quality documentation.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;18097⭐</code></b> <b><code>&nbsp;&nbsp;2749🍴</code></b> <a href="https://github.com/mahmoud/awesome-python-applications"><b>awesome-python-applications</b></a></a> - free software that works great, and also happens to be open-source Python.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;79488⭐</code></b> <b><code>&nbsp;11880🍴</code></b> <a href="https://github.com/awesomedata/awesome-public-datasets"><b>awesome-public-datasets</b></a></a> - a topic-centric list of HQ open datasets.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;18098⭐</code></b> <b><code>&nbsp;&nbsp;2748🍴</code></b> <a href="https://github.com/mahmoud/awesome-python-applications"><b>awesome-python-applications</b></a></a> - free software that works great, and also happens to be open-source Python.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;79533⭐</code></b> <b><code>&nbsp;11887🍴</code></b> <a href="https://github.com/awesomedata/awesome-public-datasets"><b>awesome-public-datasets</b></a></a> - a topic-centric list of HQ open datasets.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;399⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;48🍴</code></b> <a href="https://github.com/Sahith02/machine-learning-algorithms"><b>machine-learning-algorithms</b></a></a> - a curated list of all machine learning algorithms and concepts.<br>
 </p>
 
@@ -1243,53 +1243,53 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://mitmproxy.org/">🌎 <b>mitmproxy</b></a> - an interactive TLS-capable intercepting HTTP proxy for penetration testers.<br>
 &nbsp;&nbsp; <a href="https://cirt.net/Nikto2">🌎 <b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
 &nbsp;&nbsp; <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5988⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;934🍴</code></b> <a href="https://github.com/lanmaster53/recon-ng"><b>Recon-ng</b></a></a> - is a full-featured Web Reconnaissance framework written in Python.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6128⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;973🍴</code></b> <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a></a> - is a network reconnaissance tool which performs automated enumeration of services.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5993⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;934🍴</code></b> <a href="https://github.com/lanmaster53/recon-ng"><b>Recon-ng</b></a></a> - is a full-featured Web Reconnaissance framework written in Python.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6130⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;975🍴</code></b> <a href="https://github.com/Tib3rius/AutoRecon"><b>AutoRecon</b></a></a> - is a network reconnaissance tool which performs automated enumeration of services.<br>
 &nbsp;&nbsp; <a href="https://www.faradaysec.com/">🌎 <b>Faraday</b></a> - an Integrated Multiuser Pentest Environment.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;13281⭐</code></b> <b><code>&nbsp;&nbsp;1684🍴</code></b> <a href="https://github.com/s0md3v/Photon"><b>Photon</b></a></a> - incredibly fast crawler designed for OSINT.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;15214⭐</code></b> <b><code>&nbsp;&nbsp;2094🍴</code></b> <a href="https://github.com/s0md3v/XSStrike"><b>XSStrike</b></a></a> - most advanced XSS detection suite.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;11446⭐</code></b> <b><code>&nbsp;&nbsp;2211🍴</code></b> <a href="https://github.com/1N3/Sn1per"><b>Sn1per</b></a></a> - automated pentest framework for offensive security experts.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;12285⭐</code></b> <b><code>&nbsp;&nbsp;1248🍴</code></b> <a href="https://github.com/future-architect/vuls"><b>vuls</b></a></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8620⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;927🍴</code></b> <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a></a> - is a general purpose network security scanner with an extensible plugin system.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5955⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;902🍴</code></b> <a href="https://github.com/michenriksen/aquatone"><b>aquatone</b></a></a> - a tool for domain flyovers.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;13287⭐</code></b> <b><code>&nbsp;&nbsp;1685🍴</code></b> <a href="https://github.com/s0md3v/Photon"><b>Photon</b></a></a> - incredibly fast crawler designed for OSINT.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;15215⭐</code></b> <b><code>&nbsp;&nbsp;2096🍴</code></b> <a href="https://github.com/s0md3v/XSStrike"><b>XSStrike</b></a></a> - most advanced XSS detection suite.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;11447⭐</code></b> <b><code>&nbsp;&nbsp;2213🍴</code></b> <a href="https://github.com/1N3/Sn1per"><b>Sn1per</b></a></a> - automated pentest framework for offensive security experts.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;12287⭐</code></b> <b><code>&nbsp;&nbsp;1249🍴</code></b> <a href="https://github.com/future-architect/vuls"><b>vuls</b></a></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8619⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;928🍴</code></b> <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a></a> - is a general purpose network security scanner with an extensible plugin system.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5954⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;901🍴</code></b> <a href="https://github.com/michenriksen/aquatone"><b>aquatone</b></a></a> - a tool for domain flyovers.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/GitHackTools/BillCipher"><b>BillCipher</b></a></a> - information gathering tool for a website or IP address.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2931⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;464🍴</code></b> <a href="https://github.com/Ekultek/WhatWaf"><b>WhatWaf</b></a></a> - detect and bypass web application firewalls and protection systems.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1539⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;191🍴</code></b> <a href="https://github.com/s0md3v/Corsy"><b>Corsy</b></a></a> - CORS misconfiguration scanner.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4052⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;502🍴</code></b> <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4053⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;502🍴</code></b> <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2010⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;272🍴</code></b> <a href="https://github.com/Nekmo/dirhunt"><b>dirhunt</b></a></a> - find web directories without bruteforce.<br>
 &nbsp;&nbsp; <a href="https://www.openwall.com/john/">🌎 <b>John The Ripper</b></a> - is a fast password cracker, currently available for many flavors of Unix, Windows, and other.<br>
 &nbsp;&nbsp; <a href="https://hashcat.net/hashcat/">🌎 <b>hashcat</b></a> - world's fastest and most advanced password recovery utility.<br>
 &nbsp;&nbsp; <a href="http://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;787⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;103🍴</code></b> <a href="https://github.com/mozilla/ssh_scan"><b>ssh_scan</b></a></a> - a prototype SSH configuration and policy scanner.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1469⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;324🍴</code></b> <a href="https://github.com/woj-ciech/LeakLooker"><b>LeakLooker</b></a></a> - find open databases - powered by Binaryedge.io<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7854⭐</code></b> <b><code>&nbsp;&nbsp;1869🍴</code></b> <a href="https://github.com/offensive-security/exploitdb"><b>exploitdb</b></a></a> - searchable archive from The Exploit Database.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1828⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;245🍴</code></b> <a href="https://github.com/vulnersCom/getsploit"><b>getsploit</b></a></a> - is a command line utility for searching and downloading exploits.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9540⭐</code></b> <b><code>&nbsp;&nbsp;1909🍴</code></b> <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a></a> - some setup scripts for security research tools.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;13766⭐</code></b> <b><code>&nbsp;&nbsp;1863🍴</code></b> <a href="https://github.com/Gallopsled/pwntools"><b>pwntools</b></a></a> - CTF framework and exploit development library.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7855⭐</code></b> <b><code>&nbsp;&nbsp;1869🍴</code></b> <a href="https://github.com/offensive-security/exploitdb"><b>exploitdb</b></a></a> - searchable archive from The Exploit Database.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1828⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;246🍴</code></b> <a href="https://github.com/vulnersCom/getsploit"><b>getsploit</b></a></a> - is a command line utility for searching and downloading exploits.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9540⭐</code></b> <b><code>&nbsp;&nbsp;1910🍴</code></b> <a href="https://github.com/zardus/ctf-tools"><b>ctf-tools</b></a></a> - some setup scripts for security research tools.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;13769⭐</code></b> <b><code>&nbsp;&nbsp;1864🍴</code></b> <a href="https://github.com/Gallopsled/pwntools"><b>pwntools</b></a></a> - CTF framework and exploit development library.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;924⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;183🍴</code></b> <a href="https://github.com/bl4de/security-tools"><b>security-tools</b></a></a> - collection of small security tools created mostly in Python. CTFs, pentests and so on.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;644⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;253🍴</code></b> <a href="https://github.com/leonteale/pentestpackage"><b>pentestpackage</b></a></a> - is a package of Pentest scripts.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2887⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;784🍴</code></b> <a href="https://github.com/dloss/python-pentest-tools"><b>python-pentest-tools</b></a></a> - python tools for penetration testers.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9001⭐</code></b> <b><code>&nbsp;&nbsp;2100🍴</code></b> <a href="https://github.com/fuzzdb-project/fuzzdb"><b>fuzzdb</b></a></a> - dictionary of attack patterns and primitives for black-box application fault injection.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4198⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;672🍴</code></b> <a href="https://github.com/google/AFL"><b>AFL</b></a></a> - is a free software fuzzer maintained by Google.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6801⭐</code></b> <b><code>&nbsp;&nbsp;1324🍴</code></b> <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a></a> - is AFL with community patches.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6351⭐</code></b> <b><code>&nbsp;&nbsp;1460🍴</code></b> <a href="https://github.com/google/syzkaller"><b>syzkaller</b></a></a> - is an unsupervised, coverage-guided kernel fuzzer.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;11051⭐</code></b> <b><code>&nbsp;&nbsp;1291🍴</code></b> <a href="https://github.com/pwndbg/pwndbg"><b>pwndbg</b></a></a> - exploit development and reverse engineering with GDB made easy.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6156⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;825🍴</code></b> <a href="https://github.com/longld/peda"><b>GDB PEDA</b></a></a> - Python Exploit Development Assistance for GDB.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4200⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;672🍴</code></b> <a href="https://github.com/google/AFL"><b>AFL</b></a></a> - is a free software fuzzer maintained by Google.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6809⭐</code></b> <b><code>&nbsp;&nbsp;1325🍴</code></b> <a href="https://github.com/AFLplusplus/AFLplusplus"><b>AFL++</b></a></a> - is AFL with community patches.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6354⭐</code></b> <b><code>&nbsp;&nbsp;1461🍴</code></b> <a href="https://github.com/google/syzkaller"><b>syzkaller</b></a></a> - is an unsupervised, coverage-guided kernel fuzzer.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;11063⭐</code></b> <b><code>&nbsp;&nbsp;1292🍴</code></b> <a href="https://github.com/pwndbg/pwndbg"><b>pwndbg</b></a></a> - exploit development and reverse engineering with GDB made easy.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6157⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;825🍴</code></b> <a href="https://github.com/longld/peda"><b>GDB PEDA</b></a></a> - Python Exploit Development Assistance for GDB.<br>
 &nbsp;&nbsp; <a href="https://www.hex-rays.com/products/ida/index.shtml">🌎 <b>IDA</b></a> - multi-processor disassembler and debugger useful for reverse engineering malware.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;25037⭐</code></b> <b><code>&nbsp;&nbsp;3355🍴</code></b> <a href="https://github.com/radare/radare2"><b>radare2</b></a></a> - framework for reverse-engineering and analyzing binaries.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;13260⭐</code></b> <b><code>&nbsp;&nbsp;2397🍴</code></b> <a href="https://github.com/threat9/routersploit"><b>routersploit</b></a></a> - exploitation framework for embedded devices.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;86966⭐</code></b> <b><code>&nbsp;&nbsp;9718🍴</code></b> <a href="https://github.com/NationalSecurityAgency/ghidra"><b>Ghidra</b></a></a> - is a software reverse engineering (SRE) framework.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;25060⭐</code></b> <b><code>&nbsp;&nbsp;3363🍴</code></b> <a href="https://github.com/radare/radare2"><b>radare2</b></a></a> - framework for reverse-engineering and analyzing binaries.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;13264⭐</code></b> <b><code>&nbsp;&nbsp;2397🍴</code></b> <a href="https://github.com/threat9/routersploit"><b>routersploit</b></a></a> - exploitation framework for embedded devices.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;89109⭐</code></b> <b><code>&nbsp;&nbsp;9954🍴</code></b> <a href="https://github.com/NationalSecurityAgency/ghidra"><b>Ghidra</b></a></a> - is a software reverse engineering (SRE) framework.<br>
 &nbsp;&nbsp; <a href="https://cutter.re/">🌎 <b>Cutter</b></a> - is an SRE platform integrating Ghidra's decompiler.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;599⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;147🍴</code></b> <a href="https://github.com/salesforce/vulnreport"><b>Vulnreport</b></a></a> - open-source pentesting management and automation platform by Salesforce Product Security.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2036⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;259🍴</code></b> <a href="https://github.com/sc0tfree/mentalist"><b>Mentalist</b></a></a> - is a graphical tool for custom wordlist generation.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2036⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;258🍴</code></b> <a href="https://github.com/sc0tfree/mentalist"><b>Mentalist</b></a></a> - is a graphical tool for custom wordlist generation.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2477⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;523🍴</code></b> <a href="https://github.com/archerysec/archerysec"><b>archerysec</b></a></a> - vulnerability assessment and management helps to perform scans and manage vulnerabilities.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6600⭐</code></b> <b><code>&nbsp;&nbsp;1034🍴</code></b> <a href="https://github.com/j3ssie/Osmedeus"><b>Osmedeus</b></a></a> - fully automated offensive security tool for reconnaissance and vulnerability scanning.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;11058⭐</code></b> <b><code>&nbsp;&nbsp;2369🍴</code></b> <a href="https://github.com/beefproject/beef"><b>beef</b></a></a> - the browser exploitation framework project.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6602⭐</code></b> <b><code>&nbsp;&nbsp;1035🍴</code></b> <a href="https://github.com/j3ssie/Osmedeus"><b>Osmedeus</b></a></a> - fully automated offensive security tool for reconnaissance and vulnerability scanning.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;11063⭐</code></b> <b><code>&nbsp;&nbsp;2369🍴</code></b> <a href="https://github.com/beefproject/beef"><b>beef</b></a></a> - the browser exploitation framework project.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5256⭐</code></b> <b><code>&nbsp;&nbsp;1179🍴</code></b> <a href="https://github.com/NullArray/AutoSploit"><b>AutoSploit</b></a></a> - automated mass exploiter.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2489⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;260🍴</code></b> <a href="https://github.com/TH3xACE/SUDO_KILLER"><b>SUDO_KILLER</b></a></a> - is a tool to identify and exploit sudo rules' misconfigurations and vulnerabilities.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9947⭐</code></b> <b><code>&nbsp;&nbsp;1587🍴</code></b> <a href="https://github.com/VirusTotal/yara"><b>yara</b></a></a> - the pattern matching swiss knife.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;21905⭐</code></b> <b><code>&nbsp;&nbsp;4180🍴</code></b> <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a></a> - a little tool to play with Windows security.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;94127⭐</code></b> <b><code>&nbsp;11128🍴</code></b> <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a></a> - hunt down social media accounts by username across social networks.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9948⭐</code></b> <b><code>&nbsp;&nbsp;1587🍴</code></b> <a href="https://github.com/VirusTotal/yara"><b>yara</b></a></a> - the pattern matching swiss knife.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;21914⭐</code></b> <b><code>&nbsp;&nbsp;4181🍴</code></b> <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a></a> - a little tool to play with Windows security.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;94233⭐</code></b> <b><code>&nbsp;11143🍴</code></b> <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a></a> - hunt down social media accounts by username across social networks.<br>
 &nbsp;&nbsp; <a href="https://owasp.org/www-project-threat-dragon/">🌎 <b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br>
 </p>
 
@@ -1303,34 +1303,34 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet">🌎 <b>XSS cheat sheet</b></a> - contains many vectors that can help you bypass WAFs and filters.<br>
 &nbsp;&nbsp; <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/">🌎 <b>Offensive Security Bookmarks</b></a> - security bookmarks collection, all things that author need to pass OSCP.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4377⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;794🍴</code></b> <a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets"><b>Awesome Pentest Cheat Sheets</b></a></a> - collection of the cheat sheets useful for pentesting.<br>
-&nbsp;&nbsp;  <b><code>122551⭐</code></b> <b><code>&nbsp;10837🍴</code></b> <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome Hacking by HackWithGithub</b></a></a> - awesome lists for hackers, pentesters and security researchers.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;17261⭐</code></b> <b><code>&nbsp;&nbsp;1732🍴</code></b> <a href="https://github.com/carpedm20/awesome-hacking"><b>Awesome Hacking by carpedm20</b></a></a> - a curated list of awesome hacking tutorials, tools and resources.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;17514⭐</code></b> <b><code>&nbsp;&nbsp;2225🍴</code></b> <a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><b>Awesome Hacking Resources</b></a></a> - collection of hacking/penetration testing resources to make you better.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;27421⭐</code></b> <b><code>&nbsp;&nbsp;4983🍴</code></b> <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
+&nbsp;&nbsp;  <b><code>122735⭐</code></b> <b><code>&nbsp;10845🍴</code></b> <a href="https://github.com/Hack-with-Github/Awesome-Hacking"><b>Awesome Hacking by HackWithGithub</b></a></a> - awesome lists for hackers, pentesters and security researchers.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;17272⭐</code></b> <b><code>&nbsp;&nbsp;1733🍴</code></b> <a href="https://github.com/carpedm20/awesome-hacking"><b>Awesome Hacking by carpedm20</b></a></a> - a curated list of awesome hacking tutorials, tools and resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;17526⭐</code></b> <b><code>&nbsp;&nbsp;2227🍴</code></b> <a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><b>Awesome Hacking Resources</b></a></a> - collection of hacking/penetration testing resources to make you better.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;27437⭐</code></b> <b><code>&nbsp;&nbsp;4994🍴</code></b> <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/m4ll0k/Awesome-Hacking-Tools"><b>Awesome-Hacking-Tools</b></a></a> - is a curated list of awesome Hacking Tools.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;379⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;93🍴</code></b> <a href="https://github.com/ksanchezcld/Hacking_Cheat_Sheet"><b>Hacking Cheat Sheet</b></a></a> - author hacking and pentesting notes.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/toolswatch/blackhat-arsenal-tools"><b>blackhat-arsenal-tools</b></a></a> - official Black Hat arsenal security tools repository.<br>
 &nbsp;&nbsp; <a href="https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon">🌎 <b>Penetration Testing and WebApp Cheat Sheets</b></a> - the complete list of Infosec related cheat sheets.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;29749⭐</code></b> <b><code>&nbsp;&nbsp;5413🍴</code></b> <a href="https://github.com/The-Art-of-Hacking/h4cker"><b>Cyber Security Resources</b></a></a> - includes thousands of cybersecurity-related references and resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;29772⭐</code></b> <b><code>&nbsp;&nbsp;5421🍴</code></b> <a href="https://github.com/The-Art-of-Hacking/h4cker"><b>Cyber Security Resources</b></a></a> - includes thousands of cybersecurity-related references and resources.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1123⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;349🍴</code></b> <a href="https://github.com/jhaddix/pentest-bookmarks"><b>Pentest Bookmarks</b></a></a> - there are a LOT of pentesting blogs.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5657⭐</code></b> <b><code>&nbsp;&nbsp;1259🍴</code></b> <a href="https://github.com/OlivierLaflamme/Cheatsheet-God"><b>Cheatsheet-God</b></a></a> - Penetration Testing Reference Bank - OSCP/PTP & PTX Cheatsheet.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4688⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;867🍴</code></b> <a href="https://github.com/Cyb3rWard0g/ThreatHunter-Playbook"><b>ThreatHunter-Playbook</b></a></a> - to aid the development of techniques and hypothesis for hunting campaigns.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6390⭐</code></b> <b><code>&nbsp;&nbsp;1694🍴</code></b> <a href="https://github.com/hmaverickadams/Beginner-Network-Pentesting"><b>Beginner-Network-Pentesting</b></a></a> - notes for beginner network pentesting course.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2754⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;752🍴</code></b> <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a></a> - is a list of resources that author have been gathering in preparation for the OSCP.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;81730⭐</code></b> <b><code>&nbsp;17472🍴</code></b> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5658⭐</code></b> <b><code>&nbsp;&nbsp;1259🍴</code></b> <a href="https://github.com/OlivierLaflamme/Cheatsheet-God"><b>Cheatsheet-God</b></a></a> - Penetration Testing Reference Bank - OSCP/PTP & PTX Cheatsheet.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4689⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;867🍴</code></b> <a href="https://github.com/Cyb3rWard0g/ThreatHunter-Playbook"><b>ThreatHunter-Playbook</b></a></a> - to aid the development of techniques and hypothesis for hunting campaigns.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6392⭐</code></b> <b><code>&nbsp;&nbsp;1694🍴</code></b> <a href="https://github.com/hmaverickadams/Beginner-Network-Pentesting"><b>Beginner-Network-Pentesting</b></a></a> - notes for beginner network pentesting course.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2754⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;751🍴</code></b> <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a></a> - is a list of resources that author have been gathering in preparation for the OSCP.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;81771⭐</code></b> <b><code>&nbsp;17474🍴</code></b> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3994⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;985🍴</code></b> <a href="https://github.com/foospidy/payloads"><b>payloads</b></a></a> - git all the Payloads! A collection of web attack payloads.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a></a> - command injection payload list.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7793⭐</code></b> <b><code>&nbsp;&nbsp;1036🍴</code></b> <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>Awesome Shodan Search Queries</b></a></a> - great search queries to plug into Shodan.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5152⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;780🍴</code></b> <a href="https://github.com/s0md3v/AwesomeXSS"><b>AwesomeXSS</b></a></a> - is a collection of Awesome XSS resources.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1960⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;754🍴</code></b> <a href="https://github.com/JohnTroony/php-webshells"><b>php-webshells</b></a></a> - common php webshells.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;7800⭐</code></b> <b><code>&nbsp;&nbsp;1037🍴</code></b> <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>Awesome Shodan Search Queries</b></a></a> - great search queries to plug into Shodan.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5151⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;780🍴</code></b> <a href="https://github.com/s0md3v/AwesomeXSS"><b>AwesomeXSS</b></a></a> - is a collection of Awesome XSS resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1961⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;754🍴</code></b> <a href="https://github.com/JohnTroony/php-webshells"><b>php-webshells</b></a></a> - common php webshells.<br>
 &nbsp;&nbsp; <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/">🌎 <b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing.<br>
 &nbsp;&nbsp; <a href="https://cheatsheetseries.owasp.org/">🌎 <b>OWASP Cheat Sheet Series</b></a> - is a collection of high value information on specific application security topics.<br>
 &nbsp;&nbsp; <a href="https://jeremylong.github.io/DependencyCheck/index.html">🌎 <b>OWASP dependency-check</b></a> - is an open source solution the OWASP Top 10 2013 entry.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Proactive_Controls">🌎 <b>OWASP ProActive Controls</b></a> - OWASP Top 10 Proactive Controls 2018.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;13984⭐</code></b> <b><code>&nbsp;&nbsp;2465🍴</code></b> <a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"><b>PENTESTING-BIBLE</b></a></a> - hacking & penetration testing & red team & cyber security resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;13980⭐</code></b> <b><code>&nbsp;&nbsp;2464🍴</code></b> <a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"><b>PENTESTING-BIBLE</b></a></a> - hacking & penetration testing & red team & cyber security resources.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;3773⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;926🍴</code></b> <a href="https://github.com/nixawk/pentest-wiki"><b>pentest-wiki</b></a></a> - is a free online security knowledge library for pentesters/researchers.<br>
 &nbsp;&nbsp; <a href="https://media.defcon.org/">🌎 <b>DEF CON Media Server</b></a> - great stuff from DEFCON.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;14280⭐</code></b> <b><code>&nbsp;&nbsp;2691🍴</code></b> <a href="https://github.com/rshipp/awesome-malware-analysis"><b>Awesome Malware Analysis</b></a></a> - a curated list of awesome malware analysis tools and resources.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;14289⭐</code></b> <b><code>&nbsp;&nbsp;2691🍴</code></b> <a href="https://github.com/rshipp/awesome-malware-analysis"><b>Awesome Malware Analysis</b></a></a> - a curated list of awesome malware analysis tools and resources.<br>
 &nbsp;&nbsp; <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/">🌎 <b>SQL Injection Cheat Sheet</b></a> - detailed technical stuff about the many different variants of the SQL Injection.<br>
 &nbsp;&nbsp; <a href="http://kb.entersoft.co.in/"><b>Entersoft Knowledge Base</b></a> - great and detailed reference about vulnerabilities.<br>
 &nbsp;&nbsp; <a href="http://html5sec.org/"><b>HTML5 Security Cheatsheet</b></a> - a collection of HTML5 related XSS attack vectors.<br>
@@ -1340,13 +1340,13 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html"><b>SSRF Tips</b></a> - a collection of SSRF Tips.<br>
 &nbsp;&nbsp; <a href="http://shell-storm.org/repo/CTF/"><b>shell-storm repo CTF</b></a> - great archive of CTFs.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;586⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;93🍴</code></b> <a href="https://github.com/bl4de/ctf"><b>ctf</b></a></a> - CTF (Capture The Flag) writeups, code snippets, notes, scripts.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2859⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;480🍴</code></b> <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>My-CTF-Web-Challenges</b></a></a> - collection of CTF Web challenges.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;13250⭐</code></b> <b><code>&nbsp;&nbsp;2824🍴</code></b> <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2860⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;480🍴</code></b> <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>My-CTF-Web-Challenges</b></a></a> - collection of CTF Web challenges.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;13259⭐</code></b> <b><code>&nbsp;&nbsp;2826🍴</code></b> <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> <a href="https://github.com/sdcampbell/Internal-Pentest-Playbook"><b>Internal-Pentest-Playbook</b></a></a> - notes on the most common things for an Internal Network Penetration Test.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6356⭐</code></b> <b><code>&nbsp;&nbsp;1232🍴</code></b> <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6355⭐</code></b> <b><code>&nbsp;&nbsp;1232🍴</code></b> <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;149⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;27🍴</code></b> <a href="https://github.com/securitum/research"><b>securitum/research</b></a></a> - various Proof of Concepts of security research performed by Securitum.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9768⭐</code></b> <b><code>&nbsp;&nbsp;2189🍴</code></b> <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a></a> - is a list of public pentest reports released by several consulting security groups.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5942⭐</code></b> <b><code>&nbsp;&nbsp;1087🍴</code></b> <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a></a> - is a comprehensive curated list of available Bug Bounty.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9772⭐</code></b> <b><code>&nbsp;&nbsp;2190🍴</code></b> <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a></a> - is a list of public pentest reports released by several consulting security groups.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5945⭐</code></b> <b><code>&nbsp;&nbsp;1087🍴</code></b> <a href="https://github.com/djadmin/awesome-bug-bounty"><b>awesome-bug-bounty</b></a></a> - is a comprehensive curated list of available Bug Bounty.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;4275⭐</code></b> <b><code>&nbsp;&nbsp;1024🍴</code></b> <a href="https://github.com/ngalongc/bug-bounty-reference"><b>bug-bounty-reference</b></a></a> - is a list of bug bounty write-ups.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6156⭐</code></b> <b><code>&nbsp;&nbsp;1228🍴</code></b> <a href="https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"><b>Awesome-Bugbounty-Writeups</b></a></a> - is a curated list of bugbounty writeups.<br>
 &nbsp;&nbsp; <a href="https://pentester.land/list-of-bug-bounty-writeups.html">🌎 <b>Bug bounty writeups</b></a> - list of bug bounty writeups (2012-2020).<br>
@@ -1364,11 +1364,11 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 <p>
 &nbsp;&nbsp; <a href="https://weakpass.com/">🌎 <b>Weakpass</b></a> - for any kind of bruteforce find wordlists or unleash the power of them all at once!<br>
 &nbsp;&nbsp; <a href="https://hashes.org/">🌎 <b>Hashes.org</b></a> - is a free online hash resolving service incorporating many unparalleled techniques.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;74116⭐</code></b> <b><code>&nbsp;25149🍴</code></b> <a href="https://github.com/danielmiessler/SecLists"><b>SecLists</b></a></a> - collection of multiple types of lists used during security assessments, collected in one place.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9371⭐</code></b> <b><code>&nbsp;&nbsp;1610🍴</code></b> <a href="https://github.com/berzerk0/Probable-Wordlists"><b>Probable-Wordlists</b></a></a> - sorted by probability originally created for password generation and testing.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;74155⭐</code></b> <b><code>&nbsp;25151🍴</code></b> <a href="https://github.com/danielmiessler/SecLists"><b>SecLists</b></a></a> - collection of multiple types of lists used during security assessments, collected in one place.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;9373⭐</code></b> <b><code>&nbsp;&nbsp;1610🍴</code></b> <a href="https://github.com/berzerk0/Probable-Wordlists"><b>Probable-Wordlists</b></a></a> - sorted by probability originally created for password generation and testing.<br>
 &nbsp;&nbsp; <a href="https://wiki.skullsecurity.org/index.php?title=Passwords">🌎 <b>skullsecurity passwords</b></a> - password dictionaries and leaked passwords repository.<br>
 &nbsp;&nbsp; <a href="https://bezpieka.org/polski-slownik-premium-polish-wordlist">🌎 <b>Polish PREMIUM Dictionary</b></a> - official dictionary created by the team on the forum bezpieka.org.<b>*</b> <sup><a href="https://sourceforge.net/projects/kali-linux/files/Wordlist/">1</sup><br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1421⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;164🍴</code></b> <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a></a> - wordlists for creating statistically likely username lists.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1419⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;164🍴</code></b> <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a></a> - wordlists for creating statistically likely username lists.<br>
 </p>
 
 ##### :black\_small\_square: Bounty platforms
@@ -1389,21 +1389,21 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project">🌎 <b>OWASP-VWAD</b></a> - comprehensive and well maintained registry of all known vulnerable web applications.<br>
 &nbsp;&nbsp; <a href="http://www.dvwa.co.uk/"><b>DVWA</b></a> - PHP/MySQL web application that is damn vulnerable.<br>
 &nbsp;&nbsp; <a href="https://metasploit.help.rapid7.com/docs/metasploitable-2">🌎 <b>metasploitable2</b></a> - vulnerable web application amongst security researchers.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5744⭐</code></b> <b><code>&nbsp;&nbsp;1273🍴</code></b> <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5744⭐</code></b> <b><code>&nbsp;&nbsp;1272🍴</code></b> <a href="https://github.com/rapid7/metasploitable3"><b>metasploitable3</b></a></a> - is a VM that is built from the ground up with a large amount of security vulnerabilities.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;882⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;380🍴</code></b> <a href="https://github.com/stamparm/DSVW"><b>DSVW</b></a></a> - is a deliberately vulnerable web application written in under 100 lines of code.<br>
 &nbsp;&nbsp; <a href="https://sourceforge.net/projects/mutillidae/">🌎 <b>OWASP Mutillidae II</b></a> - free, open source, deliberately vulnerable web-application.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project">🌎 <b>OWASP Juice Shop Project</b></a> - the most bug-free vulnerable application in existence.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project">🌎 <b>OWASP Node js Goat Project</b></a> - OWASP Top 10 security risks apply to web apps developed using Node.js.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;326⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;180🍴</code></b> <a href="https://github.com/iteratec/juicy-ctf"><b>juicy-ctf</b></a></a> - run Capture the Flags and Security Trainings with OWASP Juice Shop.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1461⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;518🍴</code></b> <a href="https://github.com/OWASP/SecurityShepherd"><b>SecurityShepherd</b></a></a> - web and mobile application security training platform.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1461⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;517🍴</code></b> <a href="https://github.com/OWASP/SecurityShepherd"><b>SecurityShepherd</b></a></a> - web and mobile application security training platform.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;234⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;59🍴</code></b> <a href="https://github.com/opendns/Security_Ninjas_AppSec_Training"><b>Security Ninjas</b></a></a> - open source application security training program.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1040⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;382🍴</code></b> <a href="https://github.com/rapid7/hackazon"><b>hackazon</b></a></a> - a modern vulnerable web app.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;779⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;942🍴</code></b> <a href="https://github.com/appsecco/dvna"><b>dvna</b></a></a> - damn vulnerable NodeJS application.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5003⭐</code></b> <b><code>&nbsp;&nbsp;1968🍴</code></b> <a href="https://github.com/DefectDojo/django-DefectDojo"><b>django-DefectDojo</b></a></a> - is an open-source application vulnerability correlation and security orchestration tool.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;779⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;941🍴</code></b> <a href="https://github.com/appsecco/dvna"><b>dvna</b></a></a> - damn vulnerable NodeJS application.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5006⭐</code></b> <b><code>&nbsp;&nbsp;1967🍴</code></b> <a href="https://github.com/DefectDojo/django-DefectDojo"><b>django-DefectDojo</b></a></a> - is an open-source application vulnerability correlation and security orchestration tool.<br>
 &nbsp;&nbsp; <a href="https://google-gruyere.appspot.com/">🌎 <b>Google Gruyere</b></a> - web application exploits and defenses.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;122⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;17🍴</code></b> <a href="https://github.com/amolnaik4/bodhi"><b>Bodhi</b></a></a> - is a playground focused on learning the exploitation of client-side web vulnerabilities.<br>
 &nbsp;&nbsp; <a href="https://websploit.h4cker.org/">🌎 <b>Websploit</b></a> - single vm lab with the purpose of combining several vulnerable appliations in one environment.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;21354⭐</code></b> <b><code>&nbsp;&nbsp;4817🍴</code></b> <a href="https://github.com/vulhub/vulhub"><b>vulhub</b></a></a> - pre-built Vulnerable Environments based on docker-compose.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;21362⭐</code></b> <b><code>&nbsp;&nbsp;4818🍴</code></b> <a href="https://github.com/vulhub/vulhub"><b>vulhub</b></a></a> - pre-built Vulnerable Environments based on docker-compose.<br>
 &nbsp;&nbsp; <a href="https://rhinosecuritylabs.com/aws/introducing-cloudgoat-2/">🌎 <b>CloudGoat 2</b></a> - the new & improved "Vulnerable by Design"
 AWS deployment tool.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;&nbsp;979⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;463🍴</code></b> <a href="https://github.com/globocom/secDevLabs"><b>secDevLabs</b></a></a> - is a laboratory for learning secure web development in a practical manner.<br>
@@ -1474,10 +1474,10 @@ AWS deployment tool.<br>
 
 <p>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2807⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;560🍴</code></b> <a href="https://github.com/bugcrowd/bugcrowd_university"><b>Bugcrowd University</b></a></a> - open source education content for the researcher community.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2754⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;752🍴</code></b> <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a></a> - a list of resources and scripts that I have been gathering in preparation for the OSCP.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;2754⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;751🍴</code></b> <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a></a> - a list of resources and scripts that I have been gathering in preparation for the OSCP.<br>
 &nbsp;&nbsp; <a href="https://medium.com/@cxosmo/owasp-top-10-real-world-examples-part-1-a540c4ea2df5">🌎 <b>OWASP Top 10: Real-World Examples</b></a> - test your web apps with real-world examples (two-part series).<br>
 &nbsp;&nbsp; <a href="http://phrack.org/index.html"><b>phrack.org</b></a> - an awesome collection of articles from several respected hackers and other thinkers.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6126⭐</code></b> <b><code>&nbsp;&nbsp;1451🍴</code></b> <a href="https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources"><b>Practical-Ethical-Hacking-Resources</b></a></a> - compilation of resources from TCM's Udemy Course.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;6126⭐</code></b> <b><code>&nbsp;&nbsp;1453🍴</code></b> <a href="https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources"><b>Practical-Ethical-Hacking-Resources</b></a></a> - compilation of resources from TCM's Udemy Course.<br>
 </p>
 
 #### Your daily knowledge and news  [<sup>\[TOC\]</sup>](#anger-table-of-contents)
@@ -1535,15 +1535,15 @@ AWS deployment tool.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://jamielinux.com/docs/openssl-certificate-authority/">🌎 <b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL tools.<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8952⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;606🍴</code></b> <a href="https://github.com/smallstep/certificates"><b>step-ca Certificate Authority</b></a></a> - build your own certificate authority (CA) using open source step-ca.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;8957⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;607🍴</code></b> <a href="https://github.com/smallstep/certificates"><b>step-ca Certificate Authority</b></a></a> - build your own certificate authority (CA) using open source step-ca.<br>
 </p>
 
 ###### Build your own System/Virtual Machine
 
 <p>
-&nbsp;&nbsp;  <b><code>&nbsp;30763⭐</code></b> <b><code>&nbsp;&nbsp;3554🍴</code></b> <a href="https://github.com/cfenollosa/os-tutorial"><b>os-tutorial</b></a></a> - how to create an OS from scratch.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;30761⭐</code></b> <b><code>&nbsp;&nbsp;3553🍴</code></b> <a href="https://github.com/cfenollosa/os-tutorial"><b>os-tutorial</b></a></a> - how to create an OS from scratch.<br>
 &nbsp;&nbsp; <a href="https://justinmeiners.github.io/lc3-vm/">🌎 <b>Write your Own Virtual Machine</b></a> - how to write your own virtual machine (VM).<br>
-&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5397⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;431🍴</code></b> <a href="https://github.com/cirosantilli/x86-bare-metal-examples"><b>x86 Bare Metal Examples</b></a></a> - dozens of minimal operating systems to learn x86 system programming.<br>
+&nbsp;&nbsp;  <b><code>&nbsp;&nbsp;5400⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;431🍴</code></b> <a href="https://github.com/cirosantilli/x86-bare-metal-examples"><b>x86 Bare Metal Examples</b></a></a> - dozens of minimal operating systems to learn x86 system programming.<br>
 &nbsp;&nbsp;  <b><code>&nbsp;&nbsp;1999⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;159🍴</code></b> <a href="https://github.com/djhworld/simple-computer"><b>simple-computer</b></a></a> - the scott CPU from "But How Do It Know?" by J. Clark Scott.<br>
 &nbsp;&nbsp; <a href="https://littleosbook.github.io/">🌎 <b>littleosbook</b></a> - the little book about OS development.<br>
 </p>
@@ -2775,7 +2775,7 @@ __EOF__
 
 For more information please look at these great explanations:
 
-* <b><code> 30944⭐</code></b> <b><code> 11528🍴</code></b> [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,955 | 🐛 1,557 | 🌐 C | 📅 2026-10-15)
+* <b><code> 30957⭐</code></b> <b><code> 11527🍴</code></b> [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,966 | 🐛 1,562 | 🌐 C | 📅 2026-10-15)
 * 🌎 [RFC 5280](tools.ietf.org/html/rfc5280)
 * 🌎 [How to create multidomain certificates using config files](apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
 * 🌎 [Generate a multi domains certificate using config files](gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
@@ -3047,7 +3047,7 @@ gpg2 --batch --list-packets archive.gpg
 
 ***
 
-##### Tool: <b><code>250001⭐</code></b> <b><code> 14529🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 250,344 | 🐛 174 | 📅 2024-11-19)
+##### Tool: <b><code>250452⭐</code></b> <b><code> 14529🍴</code></b> [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 250,659 | 🐛 174 | 📅 2024-11-19)
 
 ###### Reboot system from init
 
@@ -3953,7 +3953,7 @@ certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 
 ***
 
-##### Tool: <b><code>250001⭐</code></b> <b><code> 14529🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 250,344 | 🐛 174 | 📅 2024-11-19)
+##### Tool: <b><code>250452⭐</code></b> <b><code> 14529🍴</code></b> [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 250,659 | 🐛 174 | 📅 2024-11-19)
 
 ###### Get all subnets for specific AS (Autonomous system)
 
@@ -4445,8 +4445,8 @@ Unsuccessful ASN gathering.
 
 ## Source
 
-<b><code>250001⭐</code></b> <b><code> 14529🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 250,344 | 🐛 174 | 📅 2024-11-19)
+<b><code>250452⭐</code></b> <b><code> 14529🍴</code></b> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 250,659 | 🐛 174 | 📅 2024-11-19)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
