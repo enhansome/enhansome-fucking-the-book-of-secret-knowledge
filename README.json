@@ -22,10 +22,10 @@
                         "language": "C",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-24T10:08:12Z",
-                        "open_issues": 1620,
+                        "open_issues": 1631,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 31057,
+                        "stars": 31064,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -62,7 +62,7 @@
                 "open_issues": 174,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 252953,
+                "stars": 253215,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -103,7 +103,7 @@
                 "open_issues": 174,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 252953,
+                "stars": 253215,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -139,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:48:56.549Z",
+    "last_updated": "2026-10-25T23:37:49.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴",
@@ -148,7 +148,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-24T08:22:06Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "Correia-jpv",
       "repo": "fucking-the-book-of-secret-knowledge",
       "stars": 324,
