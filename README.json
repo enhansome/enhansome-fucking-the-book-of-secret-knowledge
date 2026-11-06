@@ -58,11 +58,11 @@
                         "id": 7634677,
                         "language": "C",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-04T22:47:13Z",
-                        "open_issues": 1636,
+                        "last_commit": "2026-11-05T19:29:15Z",
+                        "open_issues": 1644,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 31190,
+                        "stars": 31204,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -96,10 +96,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 178,
+                "open_issues": 179,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 255920,
+                "stars": 256163,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -137,10 +137,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 178,
+                "open_issues": 179,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 255920,
+                "stars": 256163,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:51:24.836Z",
+    "last_updated": "2026-11-06T01:50:45.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴",
