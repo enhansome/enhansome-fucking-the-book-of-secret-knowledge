@@ -11,44 +11,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Look also: A naive utility to censor credentials in command history",
-                      "description": "lbonanomi/go",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Porting my scripts grab-bag to go",
-                        "homepage": null,
-                        "id": 172371051,
-                        "language": "Go",
-                        "license": "MIT",
-                        "last_commit": "2025-05-03T03:31:02Z",
-                        "open_issues": 0,
-                        "owner": "lbonanomi",
-                        "repo": "go",
-                        "stars": 8,
-                        "topics": [
-                          "golang"
-                        ]
-                      },
-                      "first_seen": "2026-11-05T01:51:24.836Z"
-                    }
-                  ],
-                  "description": null,
-                  "node_type": "group",
-                  "title": "Sterilize bash history"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Tool: terminal"
-            },
-            {
-              "children": [
-                {
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "openssl objects.txt",
+                      "title": "31200⭐ 11579🍴 openssl objects.txt",
                       "description": "openssl/openssl",
                       "children": [],
                       "repo_info": {
@@ -58,11 +21,11 @@
                         "id": 7634677,
                         "language": "C",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-05T19:29:15Z",
-                        "open_issues": 1644,
+                        "last_commit": "2026-11-06T21:22:27Z",
+                        "open_issues": 1642,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 31204,
+                        "stars": 31294,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -82,7 +45,7 @@
               ],
               "description": null,
               "node_type": "group",
-              "title": "Tool: openssl"
+              "title": "Tool: 🌎 openssl"
             },
             {
               "children": [],
@@ -99,7 +62,7 @@
                 "open_issues": 179,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 256163,
+                "stars": 256408,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -122,7 +85,7 @@
                   "sysops"
                 ]
               },
-              "title": "Tool: system-other",
+              "title": "Tool: 256249⭐ 14799🍴 system-other)",
               "first_seen": "2026-08-28T05:50:29.706Z"
             },
             {
@@ -140,7 +103,7 @@
                 "open_issues": 179,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 256163,
+                "stars": 256408,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -163,7 +126,7 @@
                   "sysops"
                 ]
               },
-              "title": "Tool: network-other",
+              "title": "Tool: 256249⭐ 14799🍴 network-other)",
               "first_seen": "2026-08-28T05:50:29.706Z"
             }
           ],
@@ -176,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:50:45.747Z",
+    "last_updated": "2026-11-07T01:19:04.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴",
@@ -184,7 +147,7 @@
       "id": 516425390,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-04T09:36:59Z",
+      "last_commit": "2026-11-06T09:54:27Z",
       "open_issues": 4,
       "owner": "Correia-jpv",
       "repo": "fucking-the-book-of-secret-knowledge",
@@ -211,7 +174,7 @@
         "sysops"
       ]
     },
-    "original_repository_sha": "7d37069a361d3fd9f214480755f7969744e866fa",
+    "original_repository_sha": "2c51fc23ac463f2d99623b2fd6638980adca04af",
     "enhanced_repository": "enhansome/enhansome-fucking-the-book-of-secret-knowledge",
     "enhanced_repository_description": null,
     "title": "Awesome fucking the book of secret knowledge with stars"
