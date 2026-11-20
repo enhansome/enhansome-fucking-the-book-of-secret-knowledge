@@ -58,11 +58,11 @@
                         "id": 7634677,
                         "language": "C",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-18T21:59:23Z",
-                        "open_issues": 1723,
+                        "last_commit": "2026-11-19T15:59:15Z",
+                        "open_issues": 1724,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 31478,
+                        "stars": 31486,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -96,10 +96,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 181,
+                "open_issues": 182,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 259553,
+                "stars": 259779,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -137,10 +137,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 181,
+                "open_issues": 182,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 259553,
+                "stars": 259779,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:50:58.596Z",
+    "last_updated": "2026-11-20T02:41:11.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴",
@@ -188,7 +188,7 @@
       "open_issues": 4,
       "owner": "Correia-jpv",
       "repo": "fucking-the-book-of-secret-knowledge",
-      "stars": 327,
+      "stars": 326,
       "topics": [
         "awesome",
         "awesome-list",
